@@ -7,7 +7,12 @@ const config: Config = {
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "slate-890": "rgb(var(--color-slate-890) / <alpha-value>)",
+        primary: "#FF00FF",
+      },
+    },
   },
   plugins: [],
 };
