@@ -1,5 +1,6 @@
 import { FaceHappyIcon, GamepadIcon, HomeIcon, PrizeIcon, RouteIcon } from "@/components";
 import { cn } from "@/helpers/cn";
+import Image from "next/image";
 import { NavbarList } from "./NavbarList";
 import { NavbarListItemLink } from "./NavbarListItemLink";
 import { NavbarProps } from "./types";
@@ -14,10 +15,12 @@ export const Navbar = ({ className, ...props }: NavbarProps) => {
       {...props}
     >
       <div className="flex items-center justify-center my-4">
-        <img
+        <Image
           src="https://emersonbroga.com/e/assets/emersonbroga-logo-name-pink.png"
           alt="Logo EmersonBrogaDev"
           className="w-auto h-12 p-2"
+          width={112}
+          height={32}
         />
       </div>
       <NavbarList className={"flex-grow"}>
