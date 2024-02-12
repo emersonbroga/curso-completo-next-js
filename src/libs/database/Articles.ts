@@ -18,6 +18,12 @@ const Article = {
     });
     return records;
   },
+  count: async ({ where = {} }) => {
+    const count = await prisma.article.count({
+      where,
+    });
+    return count;
+  },
 };
 
 export default Article;
