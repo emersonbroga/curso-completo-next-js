@@ -5,6 +5,9 @@ const nextConfig = {
       {
         hostname: "emersonbroga.com",
       },
+      {
+        hostname: "raw.githubusercontent.com",
+      },
     ],
   },
 };

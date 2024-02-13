@@ -1,4 +1,4 @@
-import { Pagination } from "@/components";
+import { PageWrapper, Pagination } from "@/components";
 import ArticleService from "@/services/Articles";
 import Image from "next/image";
 
@@ -10,7 +10,7 @@ export default async function Home({ searchParams }: { searchParams?: { page?: s
   const latestArticles = await ArticleService.getHomeLatestArticles();
 
   return (
-    <div className="ml-72">
+    <PageWrapper>
       <div className="w-full h-[35vh] bg-orange-400 flex-center">
         <p>Algo Chamativo</p>
       </div>
@@ -68,13 +68,11 @@ export default async function Home({ searchParams }: { searchParams?: { page?: s
               <div className="my-8">
                 <Pagination currentPage={articles.metadata.page} totalPages={articles.metadata.totalPages} />
               </div>
-
-              <div className="my-8" />
             </div>
           </div>
           <div className="col-span-4 bg-emerald-500">B</div>
         </div>
       </div>
-    </div>
+    </PageWrapper>
   );
 }
