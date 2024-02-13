@@ -1,0 +1,2612 @@
+[
+  {
+    "id": "13d692a8-185a-4692-a00a-0be8a62840e6",
+    "title": "007 The World Is Not Enough",
+    "slug": "007-the-world-is-not-enough",
+    "link": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(Nintendo_64)",
+    "year": 2000,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "13d692a8-185a-4692-a00a-0be8a62840e6-007-the-world-is-not-enough.png"
+  },
+  {
+    "id": "27c1b3b0-9bfd-41ea-b452-a03f9dcb87c0",
+    "title": "1080° Snowboarding",
+    "slug": "1080-snowboarding",
+    "link": "https://en.wikipedia.org/wiki/1080°_Snowboarding",
+    "year": 1998,
+    "genre": ["Sports", "Snowboarding"],
+    "fileName": "27c1b3b0-9bfd-41ea-b452-a03f9dcb87c0-1080-snowboarding.png"
+  },
+  {
+    "id": "c5e1803b-7171-471c-ac39-2136cda9d4a8",
+    "title": "A Bug's Life",
+    "slug": "a-bugs-life",
+    "link": "https://en.wikipedia.org/wiki/A_Bug%27s_Life_(video_game)",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "c5e1803b-7171-471c-ac39-2136cda9d4a8-a-bugs-life.png"
+  },
+  {
+    "id": "3c1d17d7-91b7-4da9-8be7-b3a6c7730efa",
+    "title": "Aero Fighters Assault",
+    "slug": "aero-fighters-assault",
+    "link": null,
+    "year": 1998,
+    "genre": ["Simulation", "Flight Combat"],
+    "fileName": "3c1d17d7-91b7-4da9-8be7-b3a6c7730efa-aero-fighters-assault.png"
+  },
+  {
+    "id": "4661efda-b495-48e5-b76f-abd7a78e46df",
+    "title": "AeroGauge",
+    "slug": "aerogauge",
+    "link": "https://en.wikipedia.org/wiki/AeroGauge",
+    "year": 1997,
+    "genre": ["Racing", "Hovercraft"],
+    "fileName": "4661efda-b495-48e5-b76f-abd7a78e46df-aerogauge.png"
+  },
+  {
+    "id": "b7551335-eb8b-4be8-96bf-cf48f2a4649f",
+    "title": "Aidyn Chronicles - The First Mage",
+    "slug": "aidyn-chronicles-the-first-mage",
+    "link": "https://en.wikipedia.org/wiki/Aidyn_Chronicles:_The_First_Mage",
+    "year": 2001,
+    "genre": ["Role Playing", "Classic RPG"],
+    "fileName": "b7551335-eb8b-4be8-96bf-cf48f2a4649f-aidyn-chronicles-the-first-mage.png"
+  },
+  {
+    "id": "05c28e86-34b4-4037-9893-f85b5430f99f",
+    "title": "All Star Tennis 99",
+    "slug": "all-star-tennis-99",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Tennis"],
+    "fileName": "05c28e86-34b4-4037-9893-f85b5430f99f-all-star-tennis-99.png"
+  },
+  {
+    "id": "8685b5cd-ac97-4638-b8b8-ef40c48f35f1",
+    "title": "All-Star Baseball 99",
+    "slug": "all-star-baseball-99",
+    "link": "https://en.wikipedia.org/wiki/All-Star_Baseball_%2799",
+    "year": 1998,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "8685b5cd-ac97-4638-b8b8-ef40c48f35f1-all-star-baseball-99.png"
+  },
+  {
+    "id": "d9368cce-788a-45e7-a0e7-21af8580f2ba",
+    "title": "All-Star Baseball 2000",
+    "slug": "all-star-baseball-2000",
+    "link": "https://en.wikipedia.org/wiki/All-Star_Baseball_2000",
+    "year": 1999,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "d9368cce-788a-45e7-a0e7-21af8580f2ba-all-star-baseball-2000.png"
+  },
+  {
+    "id": "bd099431-4f3c-4c64-a1d5-4ba76b1714c7",
+    "title": "All-Star Baseball 2001",
+    "slug": "all-star-baseball-2001",
+    "link": "https://en.wikipedia.org/wiki/All-Star_Baseball_2001",
+    "year": 2000,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "bd099431-4f3c-4c64-a1d5-4ba76b1714c7-all-star-baseball-2001.png"
+  },
+  {
+    "id": "888a1a2f-1618-4c5a-ac25-a29d265a8bfc",
+    "title": "Armorines - Project S.W.A.R.M.",
+    "slug": "armorines-project-swarm",
+    "link": "https://en.wikipedia.org/wiki/Armorines:_Project_S.W.A.R.M.",
+    "year": 1999,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "888a1a2f-1618-4c5a-ac25-a29d265a8bfc-armorines-project-swarm.png"
+  },
+  {
+    "id": "4fe841aa-4add-499e-9ae0-25714f89b7cf",
+    "title": "Army Men - Air Combat",
+    "slug": "army-men-air-combat",
+    "link": "https://en.wikipedia.org/wiki/Army_Men:_Air_Attack",
+    "year": 2000,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "4fe841aa-4add-499e-9ae0-25714f89b7cf-army-men-air-combat.png"
+  },
+  {
+    "id": "290c74e4-f07e-43fc-93b5-21baf7c75096",
+    "title": "Army Men - Sarge's Heroes",
+    "slug": "army-men-sarges-heroes",
+    "link": "https://en.wikipedia.org/wiki/Army_Men:_Sarge%27s_Heroes",
+    "year": 1999,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "290c74e4-f07e-43fc-93b5-21baf7c75096-army-men-sarges-heroes.png"
+  },
+  {
+    "id": "51406117-3b23-429f-9b77-682a10574786",
+    "title": "Army Men - Sarge's Heroes 2",
+    "slug": "army-men-sarges-heroes-2",
+    "link": "https://en.wikipedia.org/wiki/Army_Men:_Sarge%27s_Heroes_2",
+    "year": 2000,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "51406117-3b23-429f-9b77-682a10574786-army-men-sarges-heroes-2.png"
+  },
+  {
+    "id": "8f5f91b9-6481-4b69-966e-118d72549a73",
+    "title": "Asteroids Hyper 64",
+    "slug": "asteroids-hyper-64",
+    "link": "https://en.wikipedia.org/wiki/Asteroids_(video_game)#Re-releases",
+    "year": 1999,
+    "genre": ["Action", "Multidirectional Shooter"],
+    "fileName": "8f5f91b9-6481-4b69-966e-118d72549a73-asteroids-hyper-64.png"
+  },
+  {
+    "id": "74ee56c3-deed-4ac5-a290-eb09462b9795",
+    "title": "Automobili Lamborghini",
+    "slug": "automobili-lamborghini",
+    "link": "https://en.wikipedia.org/wiki/Automobili_Lamborghini",
+    "year": 1997,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "74ee56c3-deed-4ac5-a290-eb09462b9795-automobili-lamborghini.png"
+  },
+  {
+    "id": "1d756400-76d8-4a79-aebb-bdf074cab550",
+    "title": "Banjo-Kazooie",
+    "slug": "banjo-kazooie",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "1d756400-76d8-4a79-aebb-bdf074cab550-banjo-kazooie.png"
+  },
+  {
+    "id": "8bbf9be6-043e-4df5-8335-9bac148bca69",
+    "title": "Banjo-Tooie",
+    "slug": "banjo-tooie-banjo",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "8bbf9be6-043e-4df5-8335-9bac148bca69-banjo-tooie-banjo.png"
+  },
+  {
+    "id": "26b6338f-1575-4a26-88b7-eadcf8a3487b",
+    "title": "Bass Hunter 64",
+    "slug": "bass-hunter-64",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Fishing"],
+    "fileName": "26b6338f-1575-4a26-88b7-eadcf8a3487b-bass-hunter-64.png"
+  },
+  {
+    "id": "40cd8139-3c3d-4a3d-a6f9-61c273b93808",
+    "title": "Bass Masters 2000",
+    "slug": "bass-masters-2000",
+    "link": "https://en.wikipedia.org/wiki/Bass_Masters_2000",
+    "year": 1999,
+    "genre": ["Sports", "Fishing"],
+    "fileName": "40cd8139-3c3d-4a3d-a6f9-61c273b93808-bass-masters-2000.png"
+  },
+  {
+    "id": "724fd35a-ca64-408b-83b7-1e0bd40fad3d",
+    "title": "Batman Beyond - Return of the Joker",
+    "slug": "batman-beyond-return-of-the-joker",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "Beat 'em up"],
+    "fileName": "724fd35a-ca64-408b-83b7-1e0bd40fad3d-batman-beyond-return-of-the-joker.png"
+  },
+  {
+    "id": "7431f472-5260-42fc-9497-9963b06e405b",
+    "title": "BattleTanx",
+    "slug": "battletanx",
+    "link": "https://en.wikipedia.org/wiki/BattleTanx",
+    "year": 1998,
+    "genre": ["Action", "Vehicular Combat"],
+    "fileName": "7431f472-5260-42fc-9497-9963b06e405b-battletanx.png"
+  },
+  {
+    "id": "e76032f5-1d7d-4e94-bb24-6675bb8d4ffc",
+    "title": "BattleTanx - Global Assault",
+    "slug": "battletanx-global-assault",
+    "link": "https://en.wikipedia.org/wiki/BattleTanx:_Global_Assault",
+    "year": 1999,
+    "genre": ["Action", "Vehicular Combat"],
+    "fileName": "e76032f5-1d7d-4e94-bb24-6675bb8d4ffc-battletanx-global-assault.png"
+  },
+  {
+    "id": "d29e061f-b2ee-4ffc-beb1-bb6f7542ab03",
+    "title": "Battlezone - Rise of the Black Dogs",
+    "slug": "battlezone-rise-of-the-black-dogs",
+    "link": "https://en.wikipedia.org/wiki/Battlezone_(1998_video_game)#Nintendo_64_port",
+    "year": 2000,
+    "genre": ["Action", "Vehicular Combat"],
+    "fileName": "d29e061f-b2ee-4ffc-beb1-bb6f7542ab03-battlezone-rise-of-the-black-dogs.png"
+  },
+  {
+    "id": "4f0b2b28-83b3-4b0a-a631-d88f7470c406",
+    "title": "Beetle Adventure Racing!",
+    "slug": "beetle-adventure-racing",
+    "link": "https://en.wikipedia.org/wiki/Beetle_Adventure_Racing",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "4f0b2b28-83b3-4b0a-a631-d88f7470c406-beetle-adventure-racing.png"
+  },
+  {
+    "id": "b9e00c89-7d3c-4fd0-9c95-b7a52d55b506",
+    "title": "Big Mountain 2000",
+    "slug": "big-mountain-2000",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Snowboarding"],
+    "fileName": "b9e00c89-7d3c-4fd0-9c95-b7a52d55b506-big-mountain-2000.png"
+  },
+  {
+    "id": "b0f95700-f16a-4b6e-9846-76650ddbe565",
+    "title": "Bio F.R.E.A.K.S.",
+    "slug": "bio-freaks",
+    "link": "https://en.wikipedia.org/wiki/Bio_F.R.E.A.K.S.",
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "b0f95700-f16a-4b6e-9846-76650ddbe565-bio-freaks.png"
+  },
+  {
+    "id": "f7cee624-4537-4d84-ad74-a57e8e5dea5d",
+    "title": "Blast Corps",
+    "slug": "blast-corps",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Strategy"],
+    "fileName": "f7cee624-4537-4d84-ad74-a57e8e5dea5d-blast-corps.png"
+  },
+  {
+    "id": "6b17c5e8-e284-4e91-98cc-b64ec192f6f8",
+    "title": "Blues Brothers 2000",
+    "slug": "blues-brothers-2000",
+    "link": "https://en.wikipedia.org/wiki/Blues_Brothers_2000_(video_game)",
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "6b17c5e8-e284-4e91-98cc-b64ec192f6f8-blues-brothers-2000.png"
+  },
+  {
+    "id": "e0c3e80a-fa87-4f82-8698-7c4d00ec8869",
+    "title": "Body Harvest",
+    "slug": "body-harvest",
+    "link": "https://en.wikipedia.org/wiki/Body_Harvest",
+    "year": 1998,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "e0c3e80a-fa87-4f82-8698-7c4d00ec8869-body-harvest.png"
+  },
+  {
+    "id": "44dd26bd-7829-4054-85f2-8ac9f72896a4",
+    "title": "Bomberman 64",
+    "slug": "bomberman-64 =",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Adventure"],
+    "fileName": "44dd26bd-7829-4054-85f2-8ac9f72896a4-bomberman-64 =.png"
+  },
+  {
+    "id": "dd59afc8-f735-4da6-a651-8bd64cd6207d",
+    "title": "Bomberman 64 - The Second Atack",
+    "slug": "bomberman-64-the-second-attack",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Adventure"],
+    "fileName": "dd59afc8-f735-4da6-a651-8bd64cd6207d-bomberman-64-the-second-attack.png"
+  },
+  {
+    "id": "92b772e7-77d4-4d08-8b66-56b10999caaa",
+    "title": "Bomberman Hero",
+    "slug": "bomberman-hero",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "92b772e7-77d4-4d08-8b66-56b10999caaa-bomberman-hero.png"
+  },
+  {
+    "id": "0efaaf31-a4bb-43ef-a0d9-a67e0b47cfa9",
+    "title": "Bottom of the 9th",
+    "slug": "bottom-of-the-9th",
+    "link": "https://en.wikipedia.org/wiki/Bottom_of_the_9th",
+    "year": 1999,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "0efaaf31-a4bb-43ef-a0d9-a67e0b47cfa9-bottom-of-the-9th.png"
+  },
+  {
+    "id": "42e94312-01e9-4e81-9ddb-e9dc97c1079f",
+    "title": "Brunswick Circuit Pro Bowling",
+    "slug": "brunswick-circuit-pro-bowling",
+    "link": "https://en.wikipedia.org/wiki/Brunswick_Circuit_Pro_Bowling",
+    "year": 1999,
+    "genre": ["Sports", "Bowling"],
+    "fileName": "42e94312-01e9-4e81-9ddb-e9dc97c1079f-brunswick-circuit-pro-bowling.png"
+  },
+  {
+    "id": "69bc04a4-b5fa-4dfb-b7bf-450fae85ac49",
+    "title": "Buck Bumble",
+    "slug": "buck-bumble",
+    "link": "https://en.wikipedia.org/wiki/Buck_Bumble",
+    "year": 1998,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "69bc04a4-b5fa-4dfb-b7bf-450fae85ac49-buck-bumble.png"
+  },
+  {
+    "id": "f40ac001-9a2e-4c3c-b7ab-40e813c2af44",
+    "title": "Bust-A-Move 2 - Arcade Edition",
+    "slug": "bust-a-move-2-arcade-edition",
+    "link": "https://en.wikipedia.org/wiki/Puzzle_Bobble_2",
+    "year": 1998,
+    "genre": ["Puzzle", "Tile Matching"],
+    "fileName": "f40ac001-9a2e-4c3c-b7ab-40e813c2af44-bust-a-move-2-arcade-edition.png"
+  },
+  {
+    "id": "37334f3a-0b2b-47ec-997d-a10e46a1d3a2",
+    "title": "California Speed",
+    "slug": "california-speed",
+    "link": "https://en.wikipedia.org/wiki/California_Speed_(video_game)",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "37334f3a-0b2b-47ec-997d-a10e46a1d3a2-california-speed.png"
+  },
+  {
+    "id": "3a9e80ad-6404-45a4-aabb-bbfb9463e24b",
+    "title": "Carmageddon 64",
+    "slug": "carmageddon-64",
+    "link": "https://en.wikipedia.org/wiki/Carmageddon",
+    "year": 1999,
+    "genre": ["Action", "Vehicular Combat"],
+    "fileName": "3a9e80ad-6404-45a4-aabb-bbfb9463e24b-carmageddon-64.png"
+  },
+  {
+    "id": "4bd8b9e7-91c3-40dc-934f-3042ba1be98c",
+    "title": "Castlevania",
+    "slug": "castlevania",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Adventure"],
+    "fileName": "4bd8b9e7-91c3-40dc-934f-3042ba1be98c-castlevania.png"
+  },
+  {
+    "id": "d577598c-f1f6-41e5-881c-81eeefce1762",
+    "title": "Castlevania - Legacy of Darkness",
+    "slug": "castlevania-legacy-of-darkness",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Adventure"],
+    "fileName": "d577598c-f1f6-41e5-881c-81eeefce1762-castlevania-legacy-of-darkness.png"
+  },
+  {
+    "id": "94734bae-c8d3-44e4-aa1a-587d71f8df22",
+    "title": "Chameleon Twist",
+    "slug": "chameleon-twist",
+    "link": "https://en.wikipedia.org/wiki/Chameleon_Twist",
+    "year": 1997,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "94734bae-c8d3-44e4-aa1a-587d71f8df22-chameleon-twist.png"
+  },
+  {
+    "id": "9b870295-523c-41b7-9d74-fa7e1ad4f9e1",
+    "title": "Chameleon Twist 2",
+    "slug": "chameleon-twist-2",
+    "link": "https://en.wikipedia.org/wiki/Chameleon_Twist_2",
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "9b870295-523c-41b7-9d74-fa7e1ad4f9e1-chameleon-twist-2.png"
+  },
+  {
+    "id": "795413aa-bdb4-4e6c-96de-8119700a92a1",
+    "title": "Charlie Blast's Territory",
+    "slug": "charlie-blasts-territory",
+    "link": "https://en.wikipedia.org/wiki/The_Bombing_Islands#Charlie_Blast's_Territory",
+    "year": 1999,
+    "genre": ["Puzzle", "Logic"],
+    "fileName": "795413aa-bdb4-4e6c-96de-8119700a92a1-charlie-blasts-territory.png"
+  },
+  {
+    "id": "ae631df8-f1ba-4034-9cb0-bdb1469d88fa",
+    "title": "Chopper Attack",
+    "slug": "chopper-attack",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Vehicular Combat"],
+    "fileName": "ae631df8-f1ba-4034-9cb0-bdb1469d88fa-chopper-attack.png"
+  },
+  {
+    "id": "fe7e98e0-1393-4033-9300-170900d6a971",
+    "title": "Clay Fighter - Sculptor's Cut",
+    "slug": "clay-fighter-sculptors-cut",
+    "link": "https://en.wikipedia.org/wiki/ClayFighter_63⅓#Clay_Fighter_Sculptor's_Cut",
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "fe7e98e0-1393-4033-9300-170900d6a971-clay-fighter-sculptors-cut.png"
+  },
+  {
+    "id": "5edfe013-085e-40d0-9fe2-a043cecbed80",
+    "title": "ClayFighter 63⅓",
+    "slug": "clayfighter-63-1-3",
+    "link": "https://en.wikipedia.org/wiki/ClayFighter_63⅓",
+    "year": 1997,
+    "genre": ["Action", "Fighting"],
+    "fileName": "5edfe013-085e-40d0-9fe2-a043cecbed80-clayfighter-63-1-3.png"
+  },
+  {
+    "id": "5069cc63-8e4f-454a-bf15-791c56235adc",
+    "title": "Command & Conquer",
+    "slug": "command-conquer",
+    "link": "https://en.wikipedia.org/wiki/Command_%26_Conquer_(1995_video_game)#Release",
+    "year": 1999,
+    "genre": ["Strategy", "Real-time"],
+    "fileName": "5069cc63-8e4f-454a-bf15-791c56235adc-command-conquer.png"
+  },
+  {
+    "id": "166f15d2-321d-40d2-979d-dd97adac390e",
+    "title": "Conker's Bad Fur Day",
+    "slug": "conkers-bad-fur-day",
+    "link": "https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day",
+    "year": 2001,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "166f15d2-321d-40d2-979d-dd97adac390e-conkers-bad-fur-day.png"
+  },
+  {
+    "id": "cca0dc4f-e5e7-47b4-9f78-b939e8103e69",
+    "title": "Cruis'n Exotica",
+    "slug": "cruisn-exotica",
+    "link": "https://en.wikipedia.org/wiki/Cruis%27n_Exotica",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "cca0dc4f-e5e7-47b4-9f78-b939e8103e69-cruisn-exotica.png"
+  },
+  {
+    "id": "ad194150-1b16-4c3b-9aa2-4185ad9b7baf",
+    "title": "Cruis'n USA",
+    "slug": "cruisn-usa",
+    "link": "https://en.wikipedia.org/wiki/Cruis%27n_USA",
+    "year": 1996,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "ad194150-1b16-4c3b-9aa2-4185ad9b7baf-cruisn-usa.png"
+  },
+  {
+    "id": "78846e73-7b2e-4fd3-a7ac-b91904620306",
+    "title": "Cruis'n World",
+    "slug": "cruisn-world",
+    "link": "https://en.wikipedia.org/wiki/Cruis%27n_World",
+    "year": 1998,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "78846e73-7b2e-4fd3-a7ac-b91904620306-cruisn-world.png"
+  },
+  {
+    "id": "92eb0391-34df-4b6e-81c9-956a5f8870fe",
+    "title": "CyberTiger",
+    "slug": "cybertiger",
+    "link": "https://en.wikipedia.org/wiki/CyberTiger",
+    "year": 2000,
+    "genre": ["Sports", "Golf"],
+    "fileName": "92eb0391-34df-4b6e-81c9-956a5f8870fe-cybertiger.png"
+  },
+  {
+    "id": "696bc2e6-dfa2-4583-a426-985dcd4a7545",
+    "title": "Daikatana",
+    "slug": "daikatana",
+    "link": "https://en.wikipedia.org/wiki/Daikatana",
+    "year": 2000,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "696bc2e6-dfa2-4583-a426-985dcd4a7545-daikatana.png"
+  },
+  {
+    "id": "c0c99a79-d5bd-40cf-8a23-bba04d4ee753",
+    "title": "Dark Rift",
+    "slug": "dark-rift",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "c0c99a79-d5bd-40cf-8a23-bba04d4ee753-dark-rift.png"
+  },
+  {
+    "id": "e97cd233-c4c6-4633-a294-0c0a313b0747",
+    "title": "Deadly Arts",
+    "slug": "deadly-arts",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "e97cd233-c4c6-4633-a294-0c0a313b0747-deadly-arts.png"
+  },
+  {
+    "id": "532bd443-3034-4e99-add8-ebbb39867e0e",
+    "title": "Destruction Derby 64",
+    "slug": "destruction-derby-64",
+    "link": "https://en.wikipedia.org/wiki/Destruction_Derby#Development",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "532bd443-3034-4e99-add8-ebbb39867e0e-destruction-derby-64.png"
+  },
+  {
+    "id": "9a51c3b4-cfd2-406f-9995-c274276dadbc",
+    "title": "Diddy Kong Racing",
+    "slug": "diddy-kong-racing",
+    "link": "https://en.wikipedia.org/wiki/Diddy_Kong_Racing",
+    "year": 1997,
+    "genre": ["Racing", "Kart"],
+    "fileName": "9a51c3b4-cfd2-406f-9995-c274276dadbc-diddy-kong-racing.png"
+  },
+  {
+    "id": "00b78982-8c5a-4ddb-9855-375c30737d85",
+    "title": "Disney's Donald Duck: Goin' Quackers",
+    "slug": "disneys-donald-duck-goin-quackers",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "00b78982-8c5a-4ddb-9855-375c30737d85-disneys-donald-duck-goin-quackers.png"
+  },
+  {
+    "id": "346802c9-97f9-481b-8863-51204d68eb23",
+    "title": "Disney's Tarzan",
+    "slug": "disneys-tarzan",
+    "link": "https://en.wikipedia.org/wiki/Disney%27s_Tarzan_(video_game)",
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "346802c9-97f9-481b-8863-51204d68eb23-disneys-tarzan.png"
+  },
+  {
+    "id": "a337f59b-5ece-4079-8f87-aebeaab69d6d",
+    "title": "Donkey Kong 64",
+    "slug": "donkey-kong-64",
+    "link": "https://en.wikipedia.org/wiki/Donkey_Kong_64",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "a337f59b-5ece-4079-8f87-aebeaab69d6d-donkey-kong-64.png"
+  },
+  {
+    "id": "7339149a-661c-4f67-a62f-3b5f7e3045ca",
+    "title": "Doom 64",
+    "slug": "doom-64",
+    "link": "https://en.wikipedia.org/wiki/Doom_64",
+    "year": 1997,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "7339149a-661c-4f67-a62f-3b5f7e3045ca-doom-64.png"
+  },
+  {
+    "id": "b1a31d47-c0cc-4cf0-872a-8c51dc0954e7",
+    "title": "Dr. Mario 64",
+    "slug": "dr-mario-64",
+    "link": "https://en.wikipedia.org/wiki/Dr._Mario_64",
+    "year": 2001,
+    "genre": ["Puzzle", "Tile Matching"],
+    "fileName": "b1a31d47-c0cc-4cf0-872a-8c51dc0954e7-dr-mario-64.png"
+  },
+  {
+    "id": "01fb4d7e-a97f-4227-9e6b-d4cbc18ee217",
+    "title": "Dual Heroes",
+    "slug": "dual-heroes",
+    "link": "https://en.wikipedia.org/wiki/Dual_Heroes",
+    "year": 1997,
+    "genre": ["Action", "Fighting"],
+    "fileName": "01fb4d7e-a97f-4227-9e6b-d4cbc18ee217-dual-heroes.png"
+  },
+  {
+    "id": "76fa76b0-7bfa-4ba2-a3e4-5e5d8fc93745",
+    "title": "Duck Dodgers Starring Daffy Duck",
+    "slug": "duck-dodgers-starring-daffy-duck",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "76fa76b0-7bfa-4ba2-a3e4-5e5d8fc93745-duck-dodgers-starring-daffy-duck.png"
+  },
+  {
+    "id": "1538ff34-2181-4a5c-a318-6d2604e39786",
+    "title": "Duke Nukem - Zero Hour",
+    "slug": "duke-nukem-zero-hour",
+    "link": "https://en.wikipedia.org/wiki/Duke_Nukem:_Zero_Hour",
+    "year": 1999,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "1538ff34-2181-4a5c-a318-6d2604e39786-duke-nukem-zero-hour.png"
+  },
+  {
+    "id": "1f055d04-db62-41f0-af4b-8a72d6c03ed6",
+    "title": "Duke Nukem 64",
+    "slug": "duke-nukem-64",
+    "link": "https://en.wikipedia.org/wiki/Duke_Nukem_3D#Console_versions_and_add-ons",
+    "year": 1997,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "1f055d04-db62-41f0-af4b-8a72d6c03ed6-duke-nukem-64.png"
+  },
+  {
+    "id": "84d6c23e-a870-431c-a80e-cfdf2327bf66",
+    "title": "Earthworm Jim 3D",
+    "slug": "earthworm-jim-3d",
+    "link": "https://en.wikipedia.org/wiki/Earthworm_Jim_3D",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "84d6c23e-a870-431c-a80e-cfdf2327bf66-earthworm-jim-3d.png"
+  },
+  {
+    "id": "67a513f3-9144-42a5-812d-c02583a28f15",
+    "title": "ECW Hardcore Revolution",
+    "slug": "ecw-hardcore-revolution",
+    "link": "https://en.wikipedia.org/wiki/ECW_Hardcore_Revolution",
+    "year": 2000,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "67a513f3-9144-42a5-812d-c02583a28f15-ecw-hardcore-revolution.png"
+  },
+  {
+    "id": "86d3717a-9f1d-4e65-b0da-8044e1bf7fee",
+    "title": "Elmo's Letter Adventure",
+    "slug": "elmos-letter-adventure",
+    "link": "https://en.wikipedia.org/wiki/Sesame_Street_video_games#Elmo's_Letter_Adventure",
+    "year": 1999,
+    "genre": ["Educational", "Mini games"],
+    "fileName": "86d3717a-9f1d-4e65-b0da-8044e1bf7fee-elmos-letter-adventure.png"
+  },
+  {
+    "id": "750d1e40-b69e-43e0-86fc-6e4a2afd233e",
+    "title": "Elmo's Number Journey",
+    "slug": "elmos-number-journey",
+    "link": "https://en.wikipedia.org/wiki/Sesame_Street_video_games#Elmo's_Number_Journey",
+    "year": 1999,
+    "genre": ["Educational", "Mini games"],
+    "fileName": "750d1e40-b69e-43e0-86fc-6e4a2afd233e-elmos-number-journey.png"
+  },
+  {
+    "id": "3a6dc5c6-fb73-4cf2-bd70-44a3e641edac",
+    "title": "Excitebike 64",
+    "slug": "excitebike-64",
+    "link": "https://en.wikipedia.org/wiki/Excitebike_64",
+    "year": 2000,
+    "genre": ["Racing", "Motorcycle"],
+    "fileName": "3a6dc5c6-fb73-4cf2-bd70-44a3e641edac-excitebike-64.png"
+  },
+  {
+    "id": "8e64aa0f-ed85-45d1-a6c6-56b02c4c33e4",
+    "title": "Extreme-G",
+    "slug": "extreme-g",
+    "link": "https://en.wikipedia.org/wiki/Extreme-G",
+    "year": 1998,
+    "genre": ["Racing", "Futuristic"],
+    "fileName": "8e64aa0f-ed85-45d1-a6c6-56b02c4c33e4-extreme-g.png"
+  },
+  {
+    "id": "fa95e0d0-1e42-4c93-bd29-c84f85ed3f72",
+    "title": "Extreme-G 2",
+    "slug": "extreme-g-2",
+    "link": null,
+    "year": 1999,
+    "genre": ["Racing", "Futuristic"],
+    "fileName": "fa95e0d0-1e42-4c93-bd29-c84f85ed3f72-extreme-g-2.png"
+  },
+  {
+    "id": "6b2822ed-b3b7-4325-a83c-4f582b884bb6",
+    "title": "F-1 World Grand Prix",
+    "slug": "f-1-world-grand-prix",
+    "link": "https://en.wikipedia.org/wiki/F-1_World_Grand_Prix",
+    "year": 1998,
+    "genre": ["Racing", "Grand Prix"],
+    "fileName": "6b2822ed-b3b7-4325-a83c-4f582b884bb6-f-1-world-grand-prix.png"
+  },
+  {
+    "id": "19e69da9-5fd8-4d8d-877a-50049311ed38",
+    "title": "F-Zero X",
+    "slug": "f-zero-x",
+    "link": "https://en.wikipedia.org/wiki/F-Zero_X",
+    "year": 1998,
+    "genre": ["Racing", "Futuristic"],
+    "fileName": "19e69da9-5fd8-4d8d-877a-50049311ed38-f-zero-x.png"
+  },
+  {
+    "id": "e616fdf3-13be-4760-a13f-8898c9de9c6d",
+    "title": "F1 Pole Position 64",
+    "slug": "f1-pole-position-64",
+    "link": null,
+    "year": 1997,
+    "genre": ["Racing", "Grand Prix"],
+    "fileName": "e616fdf3-13be-4760-a13f-8898c9de9c6d-f1-pole-position-64.png"
+  },
+  {
+    "id": "80ef1b32-0599-4c99-b9d5-e10e62b3ea2e",
+    "title": "FIFA - Road to World Cup 98",
+    "slug": "fifa-road-to-world-cup-98",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "80ef1b32-0599-4c99-b9d5-e10e62b3ea2e-fifa-road-to-world-cup-98.png"
+  },
+  {
+    "id": "5f84e671-509c-492b-b2ce-14acf9d96911",
+    "title": "FIFA 99",
+    "slug": "fifa-99",
+    "link": "https://en.wikipedia.org/wiki/FIFA_99",
+    "year": 1998,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "5f84e671-509c-492b-b2ce-14acf9d96911-fifa-99.png"
+  },
+  {
+    "id": "1780e404-deb2-4c51-ae7f-d76d1568cc82",
+    "title": "FIFA Soccer 64",
+    "slug": "fifa-soccer-64",
+    "link": null,
+    "year": 1997,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "1780e404-deb2-4c51-ae7f-d76d1568cc82-fifa-soccer-64.png"
+  },
+  {
+    "id": "8e2caecd-9597-4577-9258-3b83f0e7a29f",
+    "title": "Fighter Destiny 2",
+    "slug": "fighter-destiny-2",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Fighting"],
+    "fileName": "8e2caecd-9597-4577-9258-3b83f0e7a29f-fighter-destiny-2.png"
+  },
+  {
+    "id": "d84a5ab5-bb43-4446-899b-bf02ce19f9a4",
+    "title": "Fighters Destiny",
+    "slug": "fighters-destiny",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "d84a5ab5-bb43-4446-899b-bf02ce19f9a4-fighters-destiny.png"
+  },
+  {
+    "id": "c2f4861b-8998-4d6a-9462-4f6e88166e49",
+    "title": "Fighting Force 64",
+    "slug": "fighting-force-64",
+    "link": "https://en.wikipedia.org/wiki/Fighting_Force",
+    "year": 1999,
+    "genre": ["Action", "Beat 'em up"],
+    "fileName": "c2f4861b-8998-4d6a-9462-4f6e88166e49-fighting-force-64.png"
+  },
+  {
+    "id": "29bcb8fd-3682-426a-8e19-c93e5a66a6d9",
+    "title": "Flying Dragon",
+    "slug": "flying-dragon",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Fighting"],
+    "fileName": "29bcb8fd-3682-426a-8e19-c93e5a66a6d9-flying-dragon.png"
+  },
+  {
+    "id": "7b226c61-7a55-4b92-8834-2c5c7384b723",
+    "title": "Forsaken 64",
+    "slug": "forsaken-64",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "7b226c61-7a55-4b92-8834-2c5c7384b723-forsaken-64.png"
+  },
+  {
+    "id": "93c6cf03-ee40-439c-ac96-f7c59479ae53",
+    "title": "Fox Sports College Hoops '99",
+    "slug": "fox-sports-college-hoops-99",
+    "link": "https://en.wikipedia.org/wiki/Fox_Sports_College_Hoops_%2799",
+    "year": 1998,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "93c6cf03-ee40-439c-ac96-f7c59479ae53-fox-sports-college-hoops-99.png"
+  },
+  {
+    "id": "83c3edbb-bc74-4913-9cd9-45f95ea6323f",
+    "title": "Gauntlet Legends",
+    "slug": "gauntlet-legends",
+    "link": "https://en.wikipedia.org/wiki/Gauntlet_Legends#Ports",
+    "year": 2000,
+    "genre": ["Role Playing", "Dungeon Crawler"],
+    "fileName": "83c3edbb-bc74-4913-9cd9-45f95ea6323f-gauntlet-legends.png"
+  },
+  {
+    "id": "657ff81a-bd56-4eec-b6f6-7f7451115b64",
+    "title": "Gex 3 - Deep Cover Gecko",
+    "slug": "gex-3-deep-cover-gecko",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "657ff81a-bd56-4eec-b6f6-7f7451115b64-gex-3-deep-cover-gecko.png"
+  },
+  {
+    "id": "7b5f4bae-b69b-4176-a69b-a356d5cd9edd",
+    "title": "Gex 64 - Enter the Gecko",
+    "slug": "gex-64-enter-the-gecko",
+    "link": "https://en.wikipedia.org/wiki/Gex_64:_Enter_the_Gecko",
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "7b5f4bae-b69b-4176-a69b-a356d5cd9edd-gex-64-enter-the-gecko.png"
+  },
+  {
+    "id": "589c4dd2-7df3-4236-b7f5-d49c0d31f893",
+    "title": "Glover",
+    "slug": "glover",
+    "link": "https://en.wikipedia.org/wiki/Glover_(video_game)",
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "589c4dd2-7df3-4236-b7f5-d49c0d31f893-glover.png"
+  },
+  {
+    "id": "d7945e92-1dc7-4aaf-bf2a-3354963176e4",
+    "title": "Goemon's Great Adventure",
+    "slug": "goemons-great-adventure",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "2D Platformer"],
+    "fileName": "d7945e92-1dc7-4aaf-bf2a-3354963176e4-goemons-great-adventure.png"
+  },
+  {
+    "id": "b4e6a183-3798-4856-b2c4-b0adac26b254",
+    "title": "Golden Nugget 64",
+    "slug": "golden-nugget-64",
+    "link": "https://en.wikipedia.org/wiki/Golden_Nugget_64",
+    "year": 1998,
+    "genre": ["Gambling", "Casino"],
+    "fileName": "b4e6a183-3798-4856-b2c4-b0adac26b254-golden-nugget-64.png"
+  },
+  {
+    "id": "46287931-5f53-478c-9cff-ab21471a7b31",
+    "title": "Goldeneye 007",
+    "slug": "goldeneye-007",
+    "link": "https://en.wikipedia.org/wiki/GoldenEye_007_(1997_video_game)",
+    "year": 1997,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "46287931-5f53-478c-9cff-ab21471a7b31-goldeneye-007.png"
+  },
+  {
+    "id": "cb6fd684-d908-4bcb-ae08-b6fe829bc27a",
+    "title": "Hercules - The Legendary Journeys",
+    "slug": "hercules-the-legendary-journeys",
+    "link": "https://en.wikipedia.org/wiki/Hercules:_The_Legendary_Journeys#Video_game",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "cb6fd684-d908-4bcb-ae08-b6fe829bc27a-hercules-the-legendary-journeys.png"
+  },
+  {
+    "id": "bb17bc0d-77b9-4f1d-b4c0-049d593ba1fe",
+    "title": "Hexen",
+    "slug": "hexen",
+    "link": "https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Console_versions",
+    "year": 1997,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "bb17bc0d-77b9-4f1d-b4c0-049d593ba1fe-hexen.png"
+  },
+  {
+    "id": "74299a38-c343-44c7-8a74-32a23de31496",
+    "title": "Hey You, Pikachu!",
+    "slug": "hey-you-pikachu",
+    "link": null,
+    "year": 1998,
+    "genre": ["Simulation", "Digital Pet"],
+    "fileName": "74299a38-c343-44c7-8a74-32a23de31496-hey-you-pikachu.png"
+  },
+  {
+    "id": "98011d8a-2a62-4342-ad8b-8797355797f4",
+    "title": "Hot Wheels - Turbo Racing",
+    "slug": "hot-wheels-turbo-racing",
+    "link": "https://en.wikipedia.org/wiki/Hot_Wheels_Turbo_Racing",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "98011d8a-2a62-4342-ad8b-8797355797f4-hot-wheels-turbo-racing.png"
+  },
+  {
+    "id": "3cc491d8-e3fd-4053-ad93-fedce911d5da",
+    "title": "Hybrid Heaven",
+    "slug": "hybrid-heaven",
+    "link": "https://en.wikipedia.org/wiki/Hybrid_Heaven",
+    "year": 1999,
+    "genre": ["Role Playing", "Action"],
+    "fileName": "3cc491d8-e3fd-4053-ad93-fedce911d5da-hybrid-heaven.png"
+  },
+  {
+    "id": "49c7cd82-7aa6-4203-939a-cd15a8117df4",
+    "title": "Hydro Thunder",
+    "slug": "hydro-thunder",
+    "link": "https://en.wikipedia.org/wiki/Hydro_Thunder",
+    "year": 2000,
+    "genre": ["Racing", "Motorboat"],
+    "fileName": "49c7cd82-7aa6-4203-939a-cd15a8117df4-hydro-thunder.png"
+  },
+  {
+    "id": "5742d891-f349-4fc2-a64e-83bdee16c9c9",
+    "title": "Iggy's Reckin' Balls",
+    "slug": "iggys-reckin-balls",
+    "link": null,
+    "year": 1998,
+    "genre": ["Racing", "Arcade"],
+    "fileName": "5742d891-f349-4fc2-a64e-83bdee16c9c9-iggys-reckin-balls.png"
+  },
+  {
+    "id": "d7706e43-1a1a-44cf-a61a-6a886df1eb13",
+    "title": "Indiana Jones and the Infernal Machine",
+    "slug": "indiana-jones-and-the-infernal-machine",
+    "link": "https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Infernal_Machine",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "d7706e43-1a1a-44cf-a61a-6a886df1eb13-indiana-jones-and-the-infernal-machine.png"
+  },
+  {
+    "id": "5539d972-2bb5-4adc-be51-04023bca1925",
+    "title": "Indy Racing 2000",
+    "slug": "indy-racing-2000",
+    "link": "https://en.wikipedia.org/wiki/Indy_Racing_2000",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "5539d972-2bb5-4adc-be51-04023bca1925-indy-racing-2000.png"
+  },
+  {
+    "id": "1e87bbba-6681-40fa-8756-f7d79e85a703",
+    "title": "International Superstar Soccer '98",
+    "slug": "international-superstar-soccer-98",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "1e87bbba-6681-40fa-8756-f7d79e85a703-international-superstar-soccer-98.png"
+  },
+  {
+    "id": "49baa264-e4d3-44a0-a386-314f37a6f36d",
+    "title": "International Superstar Soccer 64",
+    "slug": "international-superstar",
+    "link": null,
+    "year": 1996,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "49baa264-e4d3-44a0-a386-314f37a6f36d-international-superstar.png"
+  },
+  {
+    "id": "b5d0b21c-b1ef-4790-9225-f3ec59faa8e3",
+    "title": "International Superstar Soccer 2000",
+    "slug": "international-superstar-soccer-2000",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "b5d0b21c-b1ef-4790-9225-f3ec59faa8e3-international-superstar-soccer-2000.png"
+  },
+  {
+    "id": "933007e4-b513-433e-b399-365ec7add952",
+    "title": "International Track & Field",
+    "slug": "international-track-field",
+    "link": null,
+    "year": 2000,
+    "genre": ["Sports", "Track and Field"],
+    "fileName": "933007e4-b513-433e-b399-365ec7add952-international-track-field.png"
+  },
+  {
+    "id": "38b51690-b423-44ba-af5c-8e3906ec1db6",
+    "title": "Jeopardy!",
+    "slug": "jeopardy",
+    "link": "https://en.wikipedia.org/wiki/Jeopardy!_(franchise)#Consoles",
+    "year": 1998,
+    "genre": ["Trivia", "Game Show"],
+    "fileName": "38b51690-b423-44ba-af5c-8e3906ec1db6-jeopardy.png"
+  },
+  {
+    "id": "3b48e03e-d42e-490c-b922-d36b2a5a417b",
+    "title": "Jeremy McGrath Supercross 2000",
+    "slug": "jeremy-mcgrath-supercross-2000",
+    "link": "https://en.wikipedia.org/wiki/Jeremy_McGrath_Supercross_2000",
+    "year": 2000,
+    "genre": ["Racing", "Motorcycle"],
+    "fileName": "3b48e03e-d42e-490c-b922-d36b2a5a417b-jeremy-mcgrath-supercross-2000.png"
+  },
+  {
+    "id": "4e062261-af50-431c-afdb-d8b93e1a3e1f",
+    "title": "Jet Force Gemini",
+    "slug": "jet-force-gemini",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "4e062261-af50-431c-afdb-d8b93e1a3e1f-jet-force-gemini.png"
+  },
+  {
+    "id": "eb66ee02-0702-46f4-998e-2bc6ad4a01cd",
+    "title": "Ken Griffey Jr.'s Slugfest",
+    "slug": "ken-griffey-jrs-slugfest",
+    "link": "https://en.wikipedia.org/wiki/Ken_Griffey_Jr.%27s_Slugfest",
+    "year": 1999,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "eb66ee02-0702-46f4-998e-2bc6ad4a01cd-ken-griffey-jrs-slugfest.png"
+  },
+  {
+    "id": "8fb56422-cb1a-41a8-95b8-390f4cb0cffb",
+    "title": "Killer Instinct Gold",
+    "slug": "killer-instinct-gold",
+    "link": "https://en.wikipedia.org/wiki/Killer_Instinct_Gold",
+    "year": 1996,
+    "genre": ["Action", "Fighting"],
+    "fileName": "8fb56422-cb1a-41a8-95b8-390f4cb0cffb-killer-instinct-gold.png"
+  },
+  {
+    "id": "ce7c8e87-958e-4900-8fcf-e134864954a7",
+    "title": "Kirby 64 - The Crystal Shards",
+    "slug": "kirby-64-the-crystal-shards",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "2D Platformer"],
+    "fileName": "ce7c8e87-958e-4900-8fcf-e134864954a7-kirby-64-the-crystal-shards.png"
+  },
+  {
+    "id": "3dc9ca04-ab82-4a2d-b66a-161452ae4695",
+    "title": "Knife Edge - Nose Gunner",
+    "slug": "knife-edge-nose-gunner",
+    "link": null,
+    "year": 1998,
+    "genre": ["Action", "3D Rail Shooter"],
+    "fileName": "3dc9ca04-ab82-4a2d-b66a-161452ae4695-knife-edge-nose-gunner.png"
+  },
+  {
+    "id": "77d2ea41-1f14-4e18-b813-1a4004c02800",
+    "title": "Knockout Kings 2000",
+    "slug": "knockout-kings-2000",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Boxing"],
+    "fileName": "77d2ea41-1f14-4e18-b813-1a4004c02800-knockout-kings-2000.png"
+  },
+  {
+    "id": "576304a4-7fdb-40b9-830c-0191c0f9c77d",
+    "title": "LEGO Racers",
+    "slug": "lego-racers",
+    "link": "https://en.wikipedia.org/wiki/Lego_Racers_(video_game)",
+    "year": 1999,
+    "genre": ["Racing", "Arcade"],
+    "fileName": "576304a4-7fdb-40b9-830c-0191c0f9c77d-lego-racers.png"
+  },
+  {
+    "id": "59b3c91c-3d68-4848-a991-ac22c94d0624",
+    "title": "Lode Runner 3-D",
+    "slug": "lode-runner-3-d",
+    "link": "https://en.wikipedia.org/wiki/Lode_Runner_3-D",
+    "year": 1999,
+    "genre": ["Puzzle", "Action"],
+    "fileName": "59b3c91c-3d68-4848-a991-ac22c94d0624-lode-runner-3-d.png"
+  },
+  {
+    "id": "52615f7f-effb-403d-af99-51ae1c62b03b",
+    "title": "Mace - The Dark Age",
+    "slug": "mace-the-dark-age",
+    "link": "https://en.wikipedia.org/wiki/Mace:_The_Dark_Age",
+    "year": 1997,
+    "genre": ["Action", "Fighting"],
+    "fileName": "52615f7f-effb-403d-af99-51ae1c62b03b-mace-the-dark-age.png"
+  },
+  {
+    "id": "fa7e43ff-bb5d-463a-9fa8-01f399ca5ae8",
+    "title": "Madden Football 64",
+    "slug": "madden-football-64",
+    "link": "https://en.wikipedia.org/wiki/Madden_Football_64",
+    "year": 1997,
+    "genre": ["Sports", "American Football"],
+    "fileName": "fa7e43ff-bb5d-463a-9fa8-01f399ca5ae8-madden-football-64.png"
+  },
+  {
+    "id": "0d0a0851-cee0-4acb-85bf-1a8ce29740d8",
+    "title": "Madden NFL 99",
+    "slug": "madden-nfl-99",
+    "link": "https://en.wikipedia.org/wiki/Madden_NFL_99",
+    "year": 1998,
+    "genre": ["Sports", "American Football"],
+    "fileName": "0d0a0851-cee0-4acb-85bf-1a8ce29740d8-madden-nfl-99.png"
+  },
+  {
+    "id": "3a3cce97-e4ae-447b-9c9b-34322b6ee255",
+    "title": "Madden NFL 2000",
+    "slug": "madden-nfl-2000",
+    "link": "https://en.wikipedia.org/wiki/Madden_NFL_2000",
+    "year": 1999,
+    "genre": ["Sports", "American Football"],
+    "fileName": "3a3cce97-e4ae-447b-9c9b-34322b6ee255-madden-nfl-2000.png"
+  },
+  {
+    "id": "a570b364-78a3-4b5c-a33a-72a8f44ad5a3",
+    "title": "Madden NFL 2001",
+    "slug": "madden-nfl-2001",
+    "link": "https://en.wikipedia.org/wiki/Madden_NFL_2001",
+    "year": 2000,
+    "genre": ["Sports", "American Football"],
+    "fileName": "a570b364-78a3-4b5c-a33a-72a8f44ad5a3-madden-nfl-2001.png"
+  },
+  {
+    "id": "11514955-0090-4d71-95a8-673dec80442b",
+    "title": "Madden NFL 2002",
+    "slug": "madden-nfl-2002",
+    "link": "https://en.wikipedia.org/wiki/Madden_NFL_2002",
+    "year": 2001,
+    "genre": ["Sports", "American Football"],
+    "fileName": "11514955-0090-4d71-95a8-673dec80442b-madden-nfl-2002.png"
+  },
+  {
+    "id": "3aea38aa-5600-4403-abe5-708399a23089",
+    "title": "Magical Tetris Challenge",
+    "slug": "magical-tetris-challenge-magical-tetris",
+    "link": null,
+    "year": 1998,
+    "genre": ["Puzzle", "Stacking"],
+    "fileName": "3aea38aa-5600-4403-abe5-708399a23089-magical-tetris-challenge-magical-tetris.png"
+  },
+  {
+    "id": "45711c8d-8b14-41e1-84e6-24ba4be98f09",
+    "title": "Major League Baseball featuring Ken Griffey Jr.",
+    "slug": "major-league-baseball-featuring-ken-griffey-jr",
+    "link": "https://en.wikipedia.org/wiki/Major_League_Baseball_Featuring_Ken_Griffey,_Jr.",
+    "year": 1998,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "45711c8d-8b14-41e1-84e6-24ba4be98f09-major-league-baseball-featuring-ken-griffey-jr.png"
+  },
+  {
+    "id": "b6b9646c-7a0d-49ee-ba59-6ca951122f60",
+    "title": "Mario Golf",
+    "slug": "mario-golf-mario-golf-64",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Golf"],
+    "fileName": "b6b9646c-7a0d-49ee-ba59-6ca951122f60-mario-golf-mario-golf-64.png"
+  },
+  {
+    "id": "bbf778c7-760c-406a-9ece-0af98942bad7",
+    "title": "Mario Kart 64",
+    "slug": "mario-kart-64",
+    "link": "https://en.wikipedia.org/wiki/Mario_Kart_64",
+    "year": 1996,
+    "genre": ["Racing", "Kart"],
+    "fileName": "bbf778c7-760c-406a-9ece-0af98942bad7-mario-kart-64.png"
+  },
+  {
+    "id": "7bf24634-c1bf-4e09-9b25-1e24bf15f7c1",
+    "title": "Mario Party",
+    "slug": "mario-party",
+    "link": "https://en.wikipedia.org/wiki/Mario_Party_(video_game)",
+    "year": 1998,
+    "genre": ["Party", "Board Game"],
+    "fileName": "7bf24634-c1bf-4e09-9b25-1e24bf15f7c1-mario-party.png"
+  },
+  {
+    "id": "55de6eb9-5bd3-461c-b26c-2d72da71ae11",
+    "title": "Mario Party 2",
+    "slug": "mario-party-2",
+    "link": "https://en.wikipedia.org/wiki/Mario_Party_2",
+    "year": 1999,
+    "genre": ["Party", "Board Game"],
+    "fileName": "55de6eb9-5bd3-461c-b26c-2d72da71ae11-mario-party-2.png"
+  },
+  {
+    "id": "82244ecc-5554-4ca6-a854-cc370b74563f",
+    "title": "Mario Party 3",
+    "slug": "mario-party-3",
+    "link": "https://en.wikipedia.org/wiki/Mario_Party_3",
+    "year": 2000,
+    "genre": ["Party", "Board Game"],
+    "fileName": "82244ecc-5554-4ca6-a854-cc370b74563f-mario-party-3.png"
+  },
+  {
+    "id": "4c5625ac-1426-4ce7-83fe-88ee065a51f4",
+    "title": "Mario Tennis",
+    "slug": "mario-tennis",
+    "link": null,
+    "year": 2000,
+    "genre": ["Sports", "Tennis"],
+    "fileName": "4c5625ac-1426-4ce7-83fe-88ee065a51f4-mario-tennis.png"
+  },
+  {
+    "id": "27157d4f-5d13-4dcc-b416-b5fb2486174c",
+    "title": "Mega Man 64",
+    "slug": "mega-man-64",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "27157d4f-5d13-4dcc-b416-b5fb2486174c-mega-man-64.png"
+  },
+  {
+    "id": "c73fdf8d-4cda-4f74-8eac-5674310630f7",
+    "title": "Mia Hamm Soccer 64",
+    "slug": "mia-hamm-soccer-64",
+    "link": "https://en.wikipedia.org/wiki/Michael_Owen%27s_WLS_2000#Mia_Hamm_Soccer_64",
+    "year": 2000,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "c73fdf8d-4cda-4f74-8eac-5674310630f7-mia-hamm-soccer-64.png"
+  },
+  {
+    "id": "2aa9c2f9-f628-4abe-9d9b-f5c7e2b82970",
+    "title": "Mickey's Speedway USA",
+    "slug": "mickeys-speedway-usa",
+    "link": null,
+    "year": 2001,
+    "genre": ["Racing", "Kart"],
+    "fileName": "2aa9c2f9-f628-4abe-9d9b-f5c7e2b82970-mickeys-speedway-usa.png"
+  },
+  {
+    "id": "b5b770b4-ea28-4ddc-b12b-48aff2dc697a",
+    "title": "Micro Machines 64 Turbo",
+    "slug": "micro-machines-64-turbo",
+    "link": "https://en.wikipedia.org/wiki/Micro_Machines_V3",
+    "year": 1999,
+    "genre": ["Racing", "Arcade"],
+    "fileName": "b5b770b4-ea28-4ddc-b12b-48aff2dc697a-micro-machines-64-turbo.png"
+  },
+  {
+    "id": "0e3af2c1-683b-4fcf-8f01-636398011569",
+    "title": "Midway's Greatest Arcade Hits - Volume 1",
+    "slug": "midways-greatest-arcade-hits-volume-1",
+    "link": "https://en.wikipedia.org/wiki/Midway%27s_Greatest_Arcade_Hits",
+    "year": 2000,
+    "genre": ["Action", "Arcade Compilation"],
+    "fileName": "0e3af2c1-683b-4fcf-8f01-636398011569-midways-greatest-arcade-hits-volume-1.png"
+  },
+  {
+    "id": "10f7a912-f299-4d7f-96c2-c984ca05f391",
+    "title": "Mike Piazza's Strike Zone",
+    "slug": "mike-piazzas-strike-zone",
+    "link": "https://en.wikipedia.org/wiki/Mike_Piazza%27s_Strike_Zone",
+    "year": 1998,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "10f7a912-f299-4d7f-96c2-c984ca05f391-mike-piazzas-strike-zone.png"
+  },
+  {
+    "id": "ad9e7070-7b1e-4aa3-a5b8-bae91d35bcfe",
+    "title": "Milo's Astro Lanes",
+    "slug": "milos-astro-lanes",
+    "link": "https://en.wikipedia.org/wiki/Milo%27s_Astro_Lanes",
+    "year": 1998,
+    "genre": ["Sports", "Bowling"],
+    "fileName": "ad9e7070-7b1e-4aa3-a5b8-bae91d35bcfe-milos-astro-lanes.png"
+  },
+  {
+    "id": "214d68fa-fc9c-45fd-a5eb-6bb073514d23",
+    "title": "Mischief Makers",
+    "slug": "mischief-makers",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "2D Platformer"],
+    "fileName": "214d68fa-fc9c-45fd-a5eb-6bb073514d23-mischief-makers.png"
+  },
+  {
+    "id": "0d2acdcf-d248-445a-b29d-a100d6d9b004",
+    "title": "Mission Impossible",
+    "slug": "mission-impossible",
+    "link": "https://en.wikipedia.org/wiki/Mission:_Impossible_(1998_video_game)",
+    "year": 1998,
+    "genre": ["Action", "Adventure"],
+    "fileName": "0d2acdcf-d248-445a-b29d-a100d6d9b004-mission-impossible.png"
+  },
+  {
+    "id": "7438427c-2ed7-447b-9eb4-a4d255ffab89",
+    "title": "Monaco Grand Prix",
+    "slug": "monaco-grand-prix",
+    "link": null,
+    "year": 1999,
+    "genre": ["Racing", "Grand Prix"],
+    "fileName": "7438427c-2ed7-447b-9eb4-a4d255ffab89-monaco-grand-prix.png"
+  },
+  {
+    "id": "0a952307-426a-43bb-a7d8-6cf97079220d",
+    "title": "Monopoly",
+    "slug": "monopoly",
+    "link": "https://en.wikipedia.org/wiki/Monopoly_(1999_video_game)",
+    "year": 1999,
+    "genre": ["Traditional", "Monopoly"],
+    "fileName": "0a952307-426a-43bb-a7d8-6cf97079220d-monopoly.png"
+  },
+  {
+    "id": "79b7177e-6d0a-47ff-b4e5-4f16a5754b74",
+    "title": "Monster Truck Madness 64",
+    "slug": "monster-truck-madness-64",
+    "link": "https://en.wikipedia.org/wiki/Monster_Truck_Madness_64",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "79b7177e-6d0a-47ff-b4e5-4f16a5754b74-monster-truck-madness-64.png"
+  },
+  {
+    "id": "4ce6249c-83b9-4c3f-b8f3-503a82e120f8",
+    "title": "Mortal Kombat 4",
+    "slug": "mortal-kombat-4",
+    "link": "https://en.wikipedia.org/wiki/Mortal_Kombat_4",
+    "year": 1998,
+    "genre": ["Action", "Fighting"],
+    "fileName": "4ce6249c-83b9-4c3f-b8f3-503a82e120f8-mortal-kombat-4.png"
+  },
+  {
+    "id": "5e2a2112-371b-4f18-89cb-7182cc036ba3",
+    "title": "Mortal Kombat Mythologies - Sub-Zero",
+    "slug": "mortal-kombat-mythologies-sub-zero",
+    "link": "https://en.wikipedia.org/wiki/Mortal_Kombat_Mythologies:_Sub-Zero",
+    "year": 1997,
+    "genre": ["Action", "Beat 'em up"],
+    "fileName": "5e2a2112-371b-4f18-89cb-7182cc036ba3-mortal-kombat-mythologies-sub-zero.png"
+  },
+  {
+    "id": "fdc67af2-34fe-49b3-aea0-b5462ee6f2e6",
+    "title": "Mortal Kombat Trilogy",
+    "slug": "mortal-kombat-trilogy",
+    "link": "https://en.wikipedia.org/wiki/Mortal_Kombat_Trilogy",
+    "year": 1996,
+    "genre": ["Action", "Fighting"],
+    "fileName": "fdc67af2-34fe-49b3-aea0-b5462ee6f2e6-mortal-kombat-trilogy.png"
+  },
+  {
+    "id": "a0810b06-25f6-4c1f-b25f-109d6ae30168",
+    "title": "MRC - Multi Racing Championship",
+    "slug": "mrc-multi-racing-championship",
+    "link": null,
+    "year": 1997,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "a0810b06-25f6-4c1f-b25f-109d6ae30168-mrc-multi-racing-championship.png"
+  },
+  {
+    "id": "abb54d68-23b8-4338-93a9-8697ecbd2a37",
+    "title": "Ms. Pac-Man - Maze Madness",
+    "slug": "ms-pac-man-maze-madness",
+    "link": "https://en.wikipedia.org/wiki/Ms._Pac-Man_Maze_Madness",
+    "year": 2000,
+    "genre": ["Action", "Maze Game"],
+    "fileName": "abb54d68-23b8-4338-93a9-8697ecbd2a37-ms-pac-man-maze-madness.png"
+  },
+  {
+    "id": "0e79a1d3-3de7-46b0-a670-b16830cb74c0",
+    "title": "Mystical Ninja Starring Goemon",
+    "slug": "mystical-ninja-starring-goemon",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Adventure"],
+    "fileName": "0e79a1d3-3de7-46b0-a670-b16830cb74c0-mystical-ninja-starring-goemon.png"
+  },
+  {
+    "id": "a01184c9-4adb-47f9-ada4-b86bca399922",
+    "title": "Nagano Winter Olympics '98",
+    "slug": "nagano-winter-olympics-98",
+    "link": null,
+    "year": 1997,
+    "genre": ["Sports", "Winter Sports"],
+    "fileName": "a01184c9-4adb-47f9-ada4-b86bca399922-nagano-winter-olympics-98.png"
+  },
+  {
+    "id": "c180b601-0b64-4ae7-ab2f-6c27e310a397",
+    "title": "Namco Museum 64",
+    "slug": "namco-museum-64",
+    "link": "https://en.wikipedia.org/wiki/Namco_Museum#Namco_Museum_64_(N64)_and_Namco_Museum_(DC,_GBA)",
+    "year": 1999,
+    "genre": ["Action", "Arcade Compilation"],
+    "fileName": "c180b601-0b64-4ae7-ab2f-6c27e310a397-namco-museum-64.png"
+  },
+  {
+    "id": "044d7ee1-2efa-41ef-a0b5-e73c479546e1",
+    "title": "NASCAR 99",
+    "slug": "nascar-99",
+    "link": "https://en.wikipedia.org/wiki/NASCAR_99",
+    "year": 1998,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "044d7ee1-2efa-41ef-a0b5-e73c479546e1-nascar-99.png"
+  },
+  {
+    "id": "dead7536-1848-46ca-a5f0-b85e85a48fd2",
+    "title": "NASCAR 2000",
+    "slug": "nascar-2000",
+    "link": "https://en.wikipedia.org/wiki/NASCAR_2000",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "dead7536-1848-46ca-a5f0-b85e85a48fd2-nascar-2000.png"
+  },
+  {
+    "id": "85f93706-08d3-4c1e-93dd-b22bcc517fdb",
+    "title": "NBA Courtside 2 featuring Kobe Bryant",
+    "slug": "nba-courtside-2-featuring-kobe-bryant",
+    "link": "https://en.wikipedia.org/wiki/NBA_Courtside_2:_Featuring_Kobe_Bryant",
+    "year": 1999,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "85f93706-08d3-4c1e-93dd-b22bcc517fdb-nba-courtside-2-featuring-kobe-bryant.png"
+  },
+  {
+    "id": "cb2c79e3-d7c3-4c62-8f37-0f2423f06a76",
+    "title": "NBA Hangtime",
+    "slug": "nba-hangtime",
+    "link": "https://en.wikipedia.org/wiki/NBA_Hangtime",
+    "year": 1997,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "cb2c79e3-d7c3-4c62-8f37-0f2423f06a76-nba-hangtime.png"
+  },
+  {
+    "id": "4a2d39b6-84da-4e78-bd51-63a967642059",
+    "title": "NBA in the Zone '98",
+    "slug": "nba-in-the-zone-98",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "4a2d39b6-84da-4e78-bd51-63a967642059-nba-in-the-zone-98.png"
+  },
+  {
+    "id": "0c9a8636-b8f9-46f3-b489-051375ce0d4a",
+    "title": "NBA in the Zone '99",
+    "slug": "nba-in-the-zone-99",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "0c9a8636-b8f9-46f3-b489-051375ce0d4a-nba-in-the-zone-99.png"
+  },
+  {
+    "id": "a9737f9b-8cfe-4d91-a620-e78963f53c56",
+    "title": "NBA in the Zone 2000",
+    "slug": "nba-in-the-zone-2000",
+    "link": "https://en.wikipedia.org/wiki/NBA_In_The_Zone_2000",
+    "year": 2000,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "a9737f9b-8cfe-4d91-a620-e78963f53c56-nba-in-the-zone-2000.png"
+  },
+  {
+    "id": "5f96bf84-11b9-4e50-a4d0-2bf652465f6d",
+    "title": "NBA Jam 99",
+    "slug": "nba-jam-99",
+    "link": "https://en.wikipedia.org/wiki/NBA_Jam_99",
+    "year": 1998,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "5f96bf84-11b9-4e50-a4d0-2bf652465f6d-nba-jam-99.png"
+  },
+  {
+    "id": "56d5c94d-706e-4529-a705-aecc04ca3988",
+    "title": "NBA Jam 2000",
+    "slug": "nba-jam-2000",
+    "link": "https://en.wikipedia.org/wiki/NBA_Jam_2000",
+    "year": 1999,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "56d5c94d-706e-4529-a705-aecc04ca3988-nba-jam-2000.png"
+  },
+  {
+    "id": "a029fd52-8884-4d94-8733-1e8b64eeb94b",
+    "title": "NBA Live 99",
+    "slug": "nba-live-99",
+    "link": "https://en.wikipedia.org/wiki/NBA_Live_99",
+    "year": 1998,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "a029fd52-8884-4d94-8733-1e8b64eeb94b-nba-live-99.png"
+  },
+  {
+    "id": "31588637-4534-4d41-99e6-be2cd834ba06",
+    "title": "NBA Live 2000",
+    "slug": "nba-live-2000",
+    "link": "https://en.wikipedia.org/wiki/NBA_Live_2000",
+    "year": 1999,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "31588637-4534-4d41-99e6-be2cd834ba06-nba-live-2000.png"
+  },
+  {
+    "id": "4b6403ac-9706-4612-81f6-51bae73abd5b",
+    "title": "NBA Showtime - NBA on NBC",
+    "slug": "nba-showtime-nba-on-nbc",
+    "link": "https://en.wikipedia.org/wiki/NBA_Showtime:_NBA_on_NBC",
+    "year": 1999,
+    "genre": ["Sports", "Basketball"],
+    "fileName": "4b6403ac-9706-4612-81f6-51bae73abd5b-nba-showtime-nba-on-nbc.png"
+  },
+  {
+    "id": "ddf23dc1-4c66-4ba9-84eb-a11d30e3b0c5",
+    "title": "NFL Blitz",
+    "slug": "nfl-blitz",
+    "link": "https://en.wikipedia.org/wiki/NFL_Blitz_(1997_video_game)",
+    "year": 1998,
+    "genre": ["Sports", "American Football"],
+    "fileName": "ddf23dc1-4c66-4ba9-84eb-a11d30e3b0c5-nfl-blitz.png"
+  },
+  {
+    "id": "7fcb11c7-ed8c-480d-8405-36bd035453f5",
+    "title": "NFL Blitz - Special Edition",
+    "slug": "nfl-blitz-special-edition",
+    "link": "https://en.wikipedia.org/wiki/NFL_Blitz#Installments",
+    "year": 2001,
+    "genre": ["Sports", "American Football"],
+    "fileName": "7fcb11c7-ed8c-480d-8405-36bd035453f5-nfl-blitz-special-edition.png"
+  },
+  {
+    "id": "15a5cafd-bfc2-4531-bdeb-e02ee8c2f030",
+    "title": "NFL Blitz 2000",
+    "slug": "nfl-blitz-2000",
+    "link": "https://en.wikipedia.org/wiki/NFL_Blitz_2000",
+    "year": 1999,
+    "genre": ["Sports", "American Football"],
+    "fileName": "15a5cafd-bfc2-4531-bdeb-e02ee8c2f030-nfl-blitz-2000.png"
+  },
+  {
+    "id": "e48c6365-b43f-4eb5-a13d-ab27acb5cf0f",
+    "title": "NFL Blitz 2001",
+    "slug": "nfl-blitz-2001",
+    "link": "https://en.wikipedia.org/wiki/NFL_Blitz_2001",
+    "year": 2000,
+    "genre": ["Sports", "American Football"],
+    "fileName": "e48c6365-b43f-4eb5-a13d-ab27acb5cf0f-nfl-blitz-2001.png"
+  },
+  {
+    "id": "f9eed4e1-5102-49b1-8f2a-02aadda0c705",
+    "title": "NFL QB Club 2001",
+    "slug": "nfl-qb-club-2001",
+    "link": "https://en.wikipedia.org/wiki/NFL_QB_Club_2001",
+    "year": 2000,
+    "genre": ["Sports", "American Football"],
+    "fileName": "f9eed4e1-5102-49b1-8f2a-02aadda0c705-nfl-qb-club-2001.png"
+  },
+  {
+    "id": "b54ae524-0ff7-4b4d-b36e-4c4544038cfc",
+    "title": "NFL Quarterback Club 98",
+    "slug": "nfl-quarterback-club-98",
+    "link": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_98",
+    "year": 1997,
+    "genre": ["Sports", "American Football"],
+    "fileName": "b54ae524-0ff7-4b4d-b36e-4c4544038cfc-nfl-quarterback-club-98.png"
+  },
+  {
+    "id": "f62fca0e-8d3f-4077-8fda-0d4276e5fc45",
+    "title": "NFL Quarterback Club 99",
+    "slug": "nfl-quarterback-club-99",
+    "link": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_99",
+    "year": 1998,
+    "genre": ["Sports", "American Football"],
+    "fileName": "f62fca0e-8d3f-4077-8fda-0d4276e5fc45-nfl-quarterback-club-99.png"
+  },
+  {
+    "id": "5b429f2e-a0c1-4855-9c94-46d9f42e78c6",
+    "title": "NFL Quarterback Club 2000",
+    "slug": "nfl-quarterback-club-2000",
+    "link": "https://en.wikipedia.org/wiki/NFL_Quarterback_Club_2000",
+    "year": 1999,
+    "genre": ["Sports", "American Football"],
+    "fileName": "5b429f2e-a0c1-4855-9c94-46d9f42e78c6-nfl-quarterback-club-2000.png"
+  },
+  {
+    "id": "31c436d8-4a55-47ff-915a-643210ece346",
+    "title": "NHL 99",
+    "slug": "nhl-99",
+    "link": "https://en.wikipedia.org/wiki/NHL_99",
+    "year": 1998,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "31c436d8-4a55-47ff-915a-643210ece346-nhl-99.png"
+  },
+  {
+    "id": "4c439330-9daa-4460-b05e-82762fdbfa24",
+    "title": "NHL Blades of Steel '99",
+    "slug": "nhl-blades-of-steel-99",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "4c439330-9daa-4460-b05e-82762fdbfa24-nhl-blades-of-steel-99.png"
+  },
+  {
+    "id": "b4520ff2-69eb-4b7e-8e45-e3f191ef64c7",
+    "title": "NHL Breakaway 98",
+    "slug": "nhl-breakaway-98",
+    "link": "https://en.wikipedia.org/wiki/NHL_Breakaway_98",
+    "year": 1998,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "b4520ff2-69eb-4b7e-8e45-e3f191ef64c7-nhl-breakaway-98.png"
+  },
+  {
+    "id": "850505a6-036e-417c-97e0-e3cad5e9cce5",
+    "title": "NHL Breakaway 99",
+    "slug": "nhl-breakaway-99",
+    "link": "https://en.wikipedia.org/wiki/NHL_Breakaway_99",
+    "year": 1998,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "850505a6-036e-417c-97e0-e3cad5e9cce5-nhl-breakaway-99.png"
+  },
+  {
+    "id": "7435a610-da51-4494-a17f-b8e77aadd243",
+    "title": "Nightmare Creatures",
+    "slug": "nightmare-creatures",
+    "link": "https://en.wikipedia.org/wiki/Nightmare_Creatures",
+    "year": 1998,
+    "genre": ["Action", "Survival-Horror"],
+    "fileName": "7435a610-da51-4494-a17f-b8e77aadd243-nightmare-creatures.png"
+  },
+  {
+    "id": "09e8e526-8c30-4618-a05c-c2e9ebdd9f22",
+    "title": "Nuclear Strike 64",
+    "slug": "nuclear-strike-64",
+    "link": "https://en.wikipedia.org/wiki/Nuclear_Strike",
+    "year": 1999,
+    "genre": ["Action", "Multidirectional shooter"],
+    "fileName": "09e8e526-8c30-4618-a05c-c2e9ebdd9f22-nuclear-strike-64.png"
+  },
+  {
+    "id": "2a9a894b-3b64-47dd-af1a-a27f57238acb",
+    "title": "Off Road Challenge",
+    "slug": "off-road-challenge",
+    "link": "https://en.wikipedia.org/wiki/Off_Road_Challenge",
+    "year": 1998,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "2a9a894b-3b64-47dd-af1a-a27f57238acb-off-road-challenge.png"
+  },
+  {
+    "id": "feeb657c-d70c-44b2-8432-645ff962e16b",
+    "title": "Ogre Battle 64 - Person of Lordly Caliber",
+    "slug": "ogre-battle-64-person-of-lordly-caliber",
+    "link": "https://en.wikipedia.org/wiki/Ogre_Battle_64:_Person_of_Lordly_Caliber",
+    "year": 1999,
+    "genre": ["Role Playing", "Tactical"],
+    "fileName": "feeb657c-d70c-44b2-8432-645ff962e16b-ogre-battle-64-person-of-lordly-caliber.png"
+  },
+  {
+    "id": "8bddb3a4-6247-4ce0-85ef-1c7fbfe40b71",
+    "title": "Olympic Hockey 98",
+    "slug": "olympic-hockey-98",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "8bddb3a4-6247-4ce0-85ef-1c7fbfe40b71-olympic-hockey-98.png"
+  },
+  {
+    "id": "51410b83-cf30-4e12-93dd-da1c9e8888c0",
+    "title": "Paper Mario",
+    "slug": "paper-mario-mario-storyjp",
+    "link": null,
+    "year": 2000,
+    "genre": ["Role Playing", "JRPG"],
+    "fileName": "51410b83-cf30-4e12-93dd-da1c9e8888c0-paper-mario-mario-storyjp.png"
+  },
+  {
+    "id": "9974d354-9884-4544-8915-2db407859759",
+    "title": "Paperboy",
+    "slug": "paperboy",
+    "link": "https://en.wikipedia.org/wiki/Paperboy_(video_game)#Re-releases",
+    "year": 1999,
+    "genre": ["Action", "Arcade"],
+    "fileName": "9974d354-9884-4544-8915-2db407859759-paperboy.png"
+  },
+  {
+    "id": "d62e7619-e8e0-4175-a970-db856438e467",
+    "title": "Penny Racers",
+    "slug": "penny-racers",
+    "link": null,
+    "year": 1998,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "d62e7619-e8e0-4175-a970-db856438e467-penny-racers.png"
+  },
+  {
+    "id": "18fb87cd-f436-4ef3-bad0-76394b620e76",
+    "title": "Perfect Dark",
+    "slug": "perfect-dark",
+    "link": "https://en.wikipedia.org/wiki/Perfect_Dark",
+    "year": 2000,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "18fb87cd-f436-4ef3-bad0-76394b620e76-perfect-dark.png"
+  },
+  {
+    "id": "910be34d-c37a-4d46-b016-cc348719e24e",
+    "title": "PGA European Tour",
+    "slug": "pga-european-tour",
+    "link": "https://en.wikipedia.org/wiki/North_America",
+    "year": 2000,
+    "genre": ["Sports", "Golf"],
+    "fileName": "910be34d-c37a-4d46-b016-cc348719e24e-pga-european-tour.png"
+  },
+  {
+    "id": "d2b4323b-7d85-407f-8858-3ccb4a63d8ee",
+    "title": "Pilotwings 64",
+    "slug": "pilotwings-64",
+    "link": "https://en.wikipedia.org/wiki/Pilotwings_64",
+    "year": 1996,
+    "genre": ["Simulation", "Flight"],
+    "fileName": "d2b4323b-7d85-407f-8858-3ccb4a63d8ee-pilotwings-64.png"
+  },
+  {
+    "id": "b793b5c3-c96a-4610-a2a1-3a48336f7a05",
+    "title": "Pokemon Puzzle League",
+    "slug": "pokemon-puzzle-league",
+    "link": "https://en.wikipedia.org/wiki/Pokémon_Puzzle_League",
+    "year": 2000,
+    "genre": ["Puzzle", "Tile Matching"],
+    "fileName": "b793b5c3-c96a-4610-a2a1-3a48336f7a05-pokemon-puzzle-league.png"
+  },
+  {
+    "id": "1893d5c1-9628-448c-b6d9-fdbac0231ff6",
+    "title": "Pokemon Snap",
+    "slug": "pokemon-snap",
+    "link": "https://en.wikipedia.org/wiki/Pokémon_Snap",
+    "year": 1999,
+    "genre": ["Action", "3D Rail Shooter"],
+    "fileName": "1893d5c1-9628-448c-b6d9-fdbac0231ff6-pokemon-snap.png"
+  },
+  {
+    "id": "4a20bd70-e470-4d9c-a67a-ef44c75a50eb",
+    "title": "Pokemon Stadium",
+    "slug": "pokemon-stadium",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Turn-Based Battle"],
+    "fileName": "4a20bd70-e470-4d9c-a67a-ef44c75a50eb-pokemon-stadium.png"
+  },
+  {
+    "id": "6c2ffb7e-c5f4-41e3-ae30-3483bfbbb586",
+    "title": "Pokemon Stadium 2",
+    "slug": "pokemon-stadium-2",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "Turn-Based Battle"],
+    "fileName": "6c2ffb7e-c5f4-41e3-ae30-3483bfbbb586-pokemon-stadium-2.png"
+  },
+  {
+    "id": "674b9651-987f-433f-9b31-49a7e1689190",
+    "title": "Polaris SnoCross",
+    "slug": "polaris-snocross",
+    "link": "https://en.wikipedia.org/wiki/Polaris_SnoCross",
+    "year": 2000,
+    "genre": ["Racing", "Snowmobile"],
+    "fileName": "674b9651-987f-433f-9b31-49a7e1689190-polaris-snocross.png"
+  },
+  {
+    "id": "33878de6-b1fc-4f6e-936a-913ec8f65d3d",
+    "title": "Power Rangers - Lightspeed Rescue",
+    "slug": "power-rangers-lightspeed-rescue",
+    "link": "https://en.wikipedia.org/wiki/Power_Rangers_Lightspeed_Rescue_(video_game)",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "33878de6-b1fc-4f6e-936a-913ec8f65d3d-power-rangers-lightspeed-rescue.png"
+  },
+  {
+    "id": "0087992a-59a3-4340-bb11-4579128257cb",
+    "title": "Quake 64",
+    "slug": "quake-64",
+    "link": "https://en.wikipedia.org/wiki/Quake_(video_game)#Ports",
+    "year": 1998,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "0087992a-59a3-4340-bb11-4579128257cb-quake-64.png"
+  },
+  {
+    "id": "ec32ab1c-62e6-4ca3-80e9-2afc6d3aeb9f",
+    "title": "Quake II",
+    "slug": "quake-ii",
+    "link": "https://en.wikipedia.org/wiki/Quake_II#Ports",
+    "year": 1999,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "ec32ab1c-62e6-4ca3-80e9-2afc6d3aeb9f-quake-ii.png"
+  },
+  {
+    "id": "9804d3e4-3322-471c-b9a9-2f938c839ea4",
+    "title": "Rally Challenge 2000",
+    "slug": "rally-challenge-2000",
+    "link": null,
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "9804d3e4-3322-471c-b9a9-2f938c839ea4-rally-challenge-2000.png"
+  },
+  {
+    "id": "15a1fc59-38ef-470b-ab99-565ec5426c8d",
+    "title": "Rampage - World Tour",
+    "slug": "rampage-world-tour",
+    "link": "https://en.wikipedia.org/wiki/Rampage_World_Tour",
+    "year": 1998,
+    "genre": ["Action", "Arcade"],
+    "fileName": "15a1fc59-38ef-470b-ab99-565ec5426c8d-rampage-world-tour.png"
+  },
+  {
+    "id": "2468cc7f-1246-443b-a066-660517df6b69",
+    "title": "Rampage 2 - Universal Tour",
+    "slug": "rampage-2-universal-tour",
+    "link": "https://en.wikipedia.org/wiki/Rampage_2:_Universal_Tour",
+    "year": 1999,
+    "genre": ["Action", "Arcade"],
+    "fileName": "2468cc7f-1246-443b-a066-660517df6b69-rampage-2-universal-tour.png"
+  },
+  {
+    "id": "2bf23686-ee40-4aac-8ea0-7f40d663dab1",
+    "title": "Rat Attack!",
+    "slug": "rat-attack",
+    "link": "https://en.wikipedia.org/wiki/Rat_Attack",
+    "year": 2000,
+    "genre": ["Action", "Puzzle"],
+    "fileName": "2bf23686-ee40-4aac-8ea0-7f40d663dab1-rat-attack.png"
+  },
+  {
+    "id": "ffd583a9-8389-4a33-926f-1cf1a55e4ade",
+    "title": "Rayman 2 - The Great Escape",
+    "slug": "rayman-2-the-great-escape",
+    "link": "https://en.wikipedia.org/wiki/Rayman_2:_The_Great_Escape",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "ffd583a9-8389-4a33-926f-1cf1a55e4ade-rayman-2-the-great-escape.png"
+  },
+  {
+    "id": "b09910cc-182f-4fd3-adea-5c9eb2bdc78e",
+    "title": "Razor Freestyle Scooter",
+    "slug": "razor-freestyle-scooter",
+    "link": "https://en.wikipedia.org/wiki/Razor_Freestyle_Scooter",
+    "year": 2001,
+    "genre": ["Sports", "Extreme Sports"],
+    "fileName": "b09910cc-182f-4fd3-adea-5c9eb2bdc78e-razor-freestyle-scooter.png"
+  },
+  {
+    "id": "029fd204-b811-47d5-8c99-f57999db0c7a",
+    "title": "Re-Volt",
+    "slug": "re-volt",
+    "link": "https://en.wikipedia.org/wiki/Re-Volt",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "029fd204-b811-47d5-8c99-f57999db0c7a-re-volt.png"
+  },
+  {
+    "id": "86188fda-f34f-4777-aff5-2e0729ffea1e",
+    "title": "Ready 2 Rumble Boxing",
+    "slug": "ready-2-rumble-boxing",
+    "link": "https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing",
+    "year": 1999,
+    "genre": ["Sport", "Boxing"],
+    "fileName": "86188fda-f34f-4777-aff5-2e0729ffea1e-ready-2-rumble-boxing.png"
+  },
+  {
+    "id": "ac74e71a-cdb9-4bd2-a8c3-793d7d4ada6f",
+    "title": "Ready 2 Rumble Boxing - Round 2",
+    "slug": "ready-2-rumble-boxing-round-2",
+    "link": "https://en.wikipedia.org/wiki/Ready_2_Rumble_Boxing:_Round_2",
+    "year": 2000,
+    "genre": ["Sport", "Boxing"],
+    "fileName": "ac74e71a-cdb9-4bd2-a8c3-793d7d4ada6f-ready-2-rumble-boxing-round-2.png"
+  },
+  {
+    "id": "6a6a0d18-5102-4258-bc16-ffa624875b39",
+    "title": "Resident Evil 2",
+    "slug": "resident-evil-2",
+    "link": null,
+    "year": 2000,
+    "genre": ["Action", "Survival-Horror"],
+    "fileName": "6a6a0d18-5102-4258-bc16-ffa624875b39-resident-evil-2.png"
+  },
+  {
+    "id": "bc7696ae-a1e3-433c-bbd5-599f740bd301",
+    "title": "Ridge Racer 64",
+    "slug": "ridge-racer-64",
+    "link": "https://en.wikipedia.org/wiki/Ridge_Racer_64",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "bc7696ae-a1e3-433c-bbd5-599f740bd301-ridge-racer-64.png"
+  },
+  {
+    "id": "65f145d3-0712-4d80-9aec-e56fe5fb8f47",
+    "title": "Road Rash 64",
+    "slug": "road-rash-64",
+    "link": "https://en.wikipedia.org/wiki/Road_Rash_64",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "65f145d3-0712-4d80-9aec-e56fe5fb8f47-road-rash-64.png"
+  },
+  {
+    "id": "b76622e9-3b7a-4448-b742-4537160ca45c",
+    "title": "Roadsters",
+    "slug": "roadsters",
+    "link": "https://en.wikipedia.org/wiki/Roadsters_(video_game)",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "b76622e9-3b7a-4448-b742-4537160ca45c-roadsters.png"
+  },
+  {
+    "id": "2a51c449-9d65-4103-b9e8-47a542b1c3d8",
+    "title": "Robotron 64",
+    "slug": "robotron-64",
+    "link": "https://en.wikipedia.org/wiki/Robotron_64",
+    "year": 1998,
+    "genre": ["Action", "Multidirectional Shooter"],
+    "fileName": "2a51c449-9d65-4103-b9e8-47a542b1c3d8-robotron-64.png"
+  },
+  {
+    "id": "f8d9a306-8145-41af-8dc6-1d0581e7c5d4",
+    "title": "Rocket - Robot on Wheels",
+    "slug": "rocket-robot-on-wheels",
+    "link": "https://en.wikipedia.org/wiki/Rocket:_Robot_on_Wheels",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "f8d9a306-8145-41af-8dc6-1d0581e7c5d4-rocket-robot-on-wheels.png"
+  },
+  {
+    "id": "d5ad2967-addd-4873-b761-32f29c32d112",
+    "title": "Rugrats - Scavenger Hunt",
+    "slug": "rugrats-scavenger-hunt",
+    "link": null,
+    "year": 1999,
+    "genre": ["Party", "Board Game"],
+    "fileName": "d5ad2967-addd-4873-b761-32f29c32d112-rugrats-scavenger-hunt.png"
+  },
+  {
+    "id": "b59ccdbb-fe6c-43b4-bc8a-104668f75678",
+    "title": "Rugrats in Paris - The Movie",
+    "slug": "rugrats-in-paris-the-movie",
+    "link": "https://en.wikipedia.org/wiki/Rugrats_in_Paris:_The_Movie_(video_game)",
+    "year": 2000,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "b59ccdbb-fe6c-43b4-bc8a-104668f75678-rugrats-in-paris-the-movie.png"
+  },
+  {
+    "id": "79797b20-e692-47b4-b217-5308465c44ca",
+    "title": "Rush 2 - Extreme Racing USA",
+    "slug": "rush-2-extreme-racing-usa",
+    "link": null,
+    "year": 1998,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "79797b20-e692-47b4-b217-5308465c44ca-rush-2-extreme-racing-usa.png"
+  },
+  {
+    "id": "95bf856b-673d-4e2c-aab2-27b895a5b31b",
+    "title": "S.C.A.R.S.",
+    "slug": "scars",
+    "link": "https://en.wikipedia.org/wiki/S.C.A.R.S._(video_game)",
+    "year": 1998,
+    "genre": ["Racing", "Battle"],
+    "fileName": "95bf856b-673d-4e2c-aab2-27b895a5b31b-scars.png"
+  },
+  {
+    "id": "ccca8dd9-469f-4b4a-91f1-3a51c16bf47c",
+    "title": "San Francisco Rush - Extreme Racing",
+    "slug": "san-francisco-rush-extreme-racing",
+    "link": "https://en.wikipedia.org/wiki/San_Francisco_Rush:_Extreme_Racing",
+    "year": 1997,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "ccca8dd9-469f-4b4a-91f1-3a51c16bf47c-san-francisco-rush-extreme-racing.png"
+  },
+  {
+    "id": "abd0f929-d19c-4691-982a-f1b8cada8748",
+    "title": "San Francisco Rush 2049",
+    "slug": "san-francisco-rush-2049",
+    "link": "https://en.wikipedia.org/wiki/San_Francisco_Rush_2049",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "abd0f929-d19c-4691-982a-f1b8cada8748-san-francisco-rush-2049.png"
+  },
+  {
+    "id": "e0e60442-753d-4495-a5fb-aebe7b5aca14",
+    "title": "Scooby-Doo! - Classic Creep Capers",
+    "slug": "scooby-doo-classic-creep-capers",
+    "link": "https://en.wikipedia.org/wiki/Scooby-Doo!_Classic_Creep_Capers",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "e0e60442-753d-4495-a5fb-aebe7b5aca14-scooby-doo-classic-creep-capers.png"
+  },
+  {
+    "id": "d480588b-8b70-418a-b212-3b705bec6755",
+    "title": "Shadow Man",
+    "slug": "shadow-man",
+    "link": "https://en.wikipedia.org/wiki/Shadow_Man_(video_game)",
+    "year": 1999,
+    "genre": ["Action", "Adventure"],
+    "fileName": "d480588b-8b70-418a-b212-3b705bec6755-shadow-man.png"
+  },
+  {
+    "id": "c34c4d24-adb1-4df6-a8c6-0d5f3caf4e41",
+    "title": "Shadowgate 64 - Trials of the Four Towers",
+    "slug": "shadowgate-64-trials-of-the-four-towers",
+    "link": "https://en.wikipedia.org/wiki/Shadowgate_64:_Trials_of_the_Four_Towers",
+    "year": 1999,
+    "genre": ["Adventure", "Point-and-click"],
+    "fileName": "c34c4d24-adb1-4df6-a8c6-0d5f3caf4e41-shadowgate-64-trials-of-the-four-towers.png"
+  },
+  {
+    "id": "fe0ff130-3ef1-4fc2-a5f2-b447a7af95e8",
+    "title": "Snowboard Kids",
+    "slug": "snowboard-kids",
+    "link": null,
+    "year": 1997,
+    "genre": ["Sports", "Snowboarding"],
+    "fileName": "fe0ff130-3ef1-4fc2-a5f2-b447a7af95e8-snowboard-kids.png"
+  },
+  {
+    "id": "cb4f732b-001d-47be-90c2-fe788037cdb1",
+    "title": "Snowboard Kids 2",
+    "slug": "snowboard-kids-2",
+    "link": null,
+    "year": 1999,
+    "genre": ["Sports", "Snowboarding"],
+    "fileName": "cb4f732b-001d-47be-90c2-fe788037cdb1-snowboard-kids-2.png"
+  },
+  {
+    "id": "3aca8750-9317-4544-8447-ebc80167fc3e",
+    "title": "South Park",
+    "slug": "south-park",
+    "link": "https://en.wikipedia.org/wiki/South_Park_(video_game)",
+    "year": 1998,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "3aca8750-9317-4544-8447-ebc80167fc3e-south-park.png"
+  },
+  {
+    "id": "0124a56c-7ade-45e3-a14e-b0ecb7fa76f3",
+    "title": "South Park - Chef's Luv Shack",
+    "slug": "south-park-chefs-luv-shack",
+    "link": "https://en.wikipedia.org/wiki/South_Park:_Chef%27s_Luv_Shack",
+    "year": 1999,
+    "genre": ["Trivia", "Game Show"],
+    "fileName": "0124a56c-7ade-45e3-a14e-b0ecb7fa76f3-south-park-chefs-luv-shack.png"
+  },
+  {
+    "id": "a62b8950-d5af-4202-841e-f084cfe4ab61",
+    "title": "South Park Rally",
+    "slug": "south-park-rally",
+    "link": "https://en.wikipedia.org/wiki/South_Park_Rally",
+    "year": 2000,
+    "genre": ["Racing", "Kart"],
+    "fileName": "a62b8950-d5af-4202-841e-f084cfe4ab61-south-park-rally.png"
+  },
+  {
+    "id": "e3a6a65c-7936-4e53-8463-989d5c587162",
+    "title": "Space Invaders",
+    "slug": "space-invaders",
+    "link": "https://en.wikipedia.org/wiki/List_of_Space_Invaders_video_games#Space_Invaders_X",
+    "year": 1999,
+    "genre": ["Action", "Fixed Shooter"],
+    "fileName": "e3a6a65c-7936-4e53-8463-989d5c587162-space-invaders.png"
+  },
+  {
+    "id": "2eb9851d-c212-40b9-8b80-ab2c7e6099dc",
+    "title": "Space Station Silicon Valley",
+    "slug": "space-station-silicon-valley",
+    "link": "https://en.wikipedia.org/wiki/Space_Station_Silicon_Valley",
+    "year": 1998,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "2eb9851d-c212-40b9-8b80-ab2c7e6099dc-space-station-silicon-valley.png"
+  },
+  {
+    "id": "ba778ad8-e4ef-4c49-a2eb-7208bcabfb8c",
+    "title": "Spider-Man",
+    "slug": "spider-man",
+    "link": "https://en.wikipedia.org/wiki/Spider-Man_(2000_video_game)",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "ba778ad8-e4ef-4c49-a2eb-7208bcabfb8c-spider-man.png"
+  },
+  {
+    "id": "0f63d0ed-49f4-42ee-a1a9-4e254c7f46d5",
+    "title": "Star Soldier - Vanishing Earth",
+    "slug": "star-soldier-vanishing-earth",
+    "link": "https://en.wikipedia.org/wiki/Star_Soldier:_Vanishing_Earth",
+    "year": 1998,
+    "genre": ["Action", "Vertical Shooter"],
+    "fileName": "0f63d0ed-49f4-42ee-a1a9-4e254c7f46d5-star-soldier-vanishing-earth.png"
+  },
+  {
+    "id": "623d63fc-2840-470b-ba10-37a6ba0ee79f",
+    "title": "Star Wars - Rogue Squadron",
+    "slug": "star-wars-rogue-squadron",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Flight Combat"],
+    "fileName": "623d63fc-2840-470b-ba10-37a6ba0ee79f-star-wars-rogue-squadron.png"
+  },
+  {
+    "id": "d53ceca5-a9b2-43d0-b24b-d370ce3b67e0",
+    "title": "Star Wars - Shadows of the Empire",
+    "slug": "star-wars-shadows-of-the-empire",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "d53ceca5-a9b2-43d0-b24b-d370ce3b67e0-star-wars-shadows-of-the-empire.png"
+  },
+  {
+    "id": "63f72ec5-2db8-4f3e-bd0e-488365274dd2",
+    "title": "Star Wars Episode I - Battle for Naboo",
+    "slug": "star-wars-episode-i-battle-for-naboo",
+    "link": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Battle_for_Naboo",
+    "year": 2000,
+    "genre": ["Action", "Flight Combat"],
+    "fileName": "63f72ec5-2db8-4f3e-bd0e-488365274dd2-star-wars-episode-i-battle-for-naboo.png"
+  },
+  {
+    "id": "5a2cfa65-b181-4f61-aab1-9a3f0fbe30ad",
+    "title": "Star Wars Episode I - Racer",
+    "slug": "star-wars-episode-i-racer",
+    "link": "https://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer",
+    "year": 1999,
+    "genre": ["Racing", "Hovercraft"],
+    "fileName": "5a2cfa65-b181-4f61-aab1-9a3f0fbe30ad-star-wars-episode-i-racer.png"
+  },
+  {
+    "id": "3d5d7369-ff49-48dd-bff7-b878c2a5a572",
+    "title": "StarCraft 64",
+    "slug": "starcraft-64",
+    "link": "https://en.wikipedia.org/wiki/StarCraft_(video_game)#Nintendo_64_version",
+    "year": 2000,
+    "genre": ["Strategy", "Real-Time"],
+    "fileName": "3d5d7369-ff49-48dd-bff7-b878c2a5a572-starcraft-64.png"
+  },
+  {
+    "id": "cc2b2646-d5d8-4a0f-9523-aebe50967ace",
+    "title": "Starshot - Space Circus Fever",
+    "slug": "starshot-space-circus-fever",
+    "link": "https://en.wikipedia.org/wiki/Starshot:_Space_Circus_Fever",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "cc2b2646-d5d8-4a0f-9523-aebe50967ace-starshot-space-circus-fever.png"
+  },
+  {
+    "id": "a6c62ca9-760d-4437-92f5-e502751fef73",
+    "title": "Stunt Racer 64",
+    "slug": "stunt-racer-64",
+    "link": "https://en.wikipedia.org/wiki/Stunt_Racer_64",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "a6c62ca9-760d-4437-92f5-e502751fef73-stunt-racer-64.png"
+  },
+  {
+    "id": "7f0a0aca-3152-4967-b687-1d9ea0c21884",
+    "title": "Super Bowling",
+    "slug": "super-bowling",
+    "link": "https://en.wikipedia.org/wiki/Super_Bowling",
+    "year": 1999,
+    "genre": ["Sports", "Bowling"],
+    "fileName": "7f0a0aca-3152-4967-b687-1d9ea0c21884-super-bowling.png"
+  },
+  {
+    "id": "6db50330-5fa6-4b92-a81d-eb2835cb7191",
+    "title": "Super Mario 64",
+    "slug": "super-mario-64",
+    "link": "https://en.wikipedia.org/wiki/Super_Mario_64#Rereleases",
+    "year": 1997,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "6db50330-5fa6-4b92-a81d-eb2835cb7191-super-mario-64.png"
+  },
+  {
+    "id": "731c95d1-c068-483b-8572-93007c6ee4a2",
+    "title": "Super Smash Bros.",
+    "slug": "super-smash-bros",
+    "link": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)",
+    "year": 1999,
+    "genre": ["Action", "Fighting"],
+    "fileName": "731c95d1-c068-483b-8572-93007c6ee4a2-super-smash-bros.png"
+  },
+  {
+    "id": "39f5dc27-93bd-4651-b165-0dda8ed4b51c",
+    "title": "Supercross 2000",
+    "slug": "supercross-2000",
+    "link": "https://en.wikipedia.org/wiki/Supercross_2000",
+    "year": 1999,
+    "genre": ["Racing", "Motorcycle"],
+    "fileName": "39f5dc27-93bd-4651-b165-0dda8ed4b51c-supercross-2000.png"
+  },
+  {
+    "id": "d1376cac-b26e-4a85-af99-0bbd4c996bb8",
+    "title": "Superman: The New Superman Adventures",
+    "slug": "superman-the-new-superman-adventures",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Adventure"],
+    "fileName": "d1376cac-b26e-4a85-af99-0bbd4c996bb8-superman-the-new-superman-adventures.png"
+  },
+  {
+    "id": "4537df25-2c97-4271-b3c2-0a99a46c51af",
+    "title": "Tetrisphere",
+    "slug": "tetrisphere",
+    "link": "https://en.wikipedia.org/wiki/Tetrisphere",
+    "year": 1997,
+    "genre": ["Puzzle", "Stacking"],
+    "fileName": "4537df25-2c97-4271-b3c2-0a99a46c51af-tetrisphere.png"
+  },
+  {
+    "id": "ee819d31-4c40-4a3a-9809-34dfacc6bb20",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "slug": "the-legend-of-zelda-majoras-mask",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask",
+    "year": 2000,
+    "genre": ["Action", "Adventure"],
+    "fileName": "ee819d31-4c40-4a3a-9809-34dfacc6bb20-the-legend-of-zelda-majoras-mask.png"
+  },
+  {
+    "id": "f5ff6d0b-f094-4910-8be4-b8a721caea4b",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "slug": "the-legend-of-zelda-ocarina-of-time",
+    "link": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time",
+    "year": 1998,
+    "genre": ["Action", "Adventure"],
+    "fileName": "f5ff6d0b-f094-4910-8be4-b8a721caea4b-the-legend-of-zelda-ocarina-of-time.png"
+  },
+  {
+    "id": "4ecfc7cd-e0b0-4922-a113-451b14ced904",
+    "title": "The New Tetris",
+    "slug": "the-new-tetris",
+    "link": "https://en.wikipedia.org/wiki/The_New_Tetris",
+    "year": 1999,
+    "genre": ["Puzzle", "Stacking"],
+    "fileName": "4ecfc7cd-e0b0-4922-a113-451b14ced904-the-new-tetris.png"
+  },
+  {
+    "id": "542fa007-154c-416f-a03a-0ceb7ee1a749",
+    "title": "The Powerpuff Girls: Chemical X-Traction",
+    "slug": "the-powerpuff-girls-chemical-x-traction",
+    "link": "https://en.wikipedia.org/wiki/The_Powerpuff_Girls:_Chemical_X-Traction",
+    "year": 2001,
+    "genre": ["Action", "Arena Fighter"],
+    "fileName": "542fa007-154c-416f-a03a-0ceb7ee1a749-the-powerpuff-girls-chemical-x-traction.png"
+  },
+  {
+    "id": "0ec800c9-6939-4c1c-9e83-219a9abfdb81",
+    "title": "Tigger's Honey Hunt",
+    "slug": "tiggers-honey-hunt",
+    "link": "https://en.wikipedia.org/wiki/Tigger%27s_Honey_Hunt",
+    "year": 2000,
+    "genre": ["Action", "2D Platformer"],
+    "fileName": "0ec800c9-6939-4c1c-9e83-219a9abfdb81-tiggers-honey-hunt.png"
+  },
+  {
+    "id": "2b1064aa-1c23-43c6-acb7-ac51c5ddeb68",
+    "title": "Tom and Jerry in Fists of Furry",
+    "slug": "tom-and-jerry-in-fists-of-furry",
+    "link": "https://en.wikipedia.org/wiki/Tom_and_Jerry_in_Fists_of_Furry",
+    "year": 2000,
+    "genre": ["Action", "Arena Fighter"],
+    "fileName": "2b1064aa-1c23-43c6-acb7-ac51c5ddeb68-tom-and-jerry-in-fists-of-furry.png"
+  },
+  {
+    "id": "95253147-f94a-46fe-a4c3-8ed0036a0770",
+    "title": "Tom Clancy's Rainbow Six",
+    "slug": "tom-clancys-rainbow-six",
+    "link": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_(video_game)",
+    "year": 1999,
+    "genre": ["Action", "Tactical Shooter"],
+    "fileName": "95253147-f94a-46fe-a4c3-8ed0036a0770-tom-clancys-rainbow-six.png"
+  },
+  {
+    "id": "b5e3a7bc-5e6d-4929-a2e0-bbeedae2fc63",
+    "title": "Tonic Trouble",
+    "slug": "tonic-trouble",
+    "link": "https://en.wikipedia.org/wiki/Tonic_Trouble",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "b5e3a7bc-5e6d-4929-a2e0-bbeedae2fc63-tonic-trouble.png"
+  },
+  {
+    "id": "3b4e4bfd-299b-4a07-aab0-6fc2b2c2595e",
+    "title": "Tony Hawk's Pro Skater",
+    "slug": "tony-hawks-pro-skater",
+    "link": null,
+    "year": 2000,
+    "genre": ["Sports", "Extreme Sports"],
+    "fileName": "3b4e4bfd-299b-4a07-aab0-6fc2b2c2595e-tony-hawks-pro-skater.png"
+  },
+  {
+    "id": "6664a1b5-493e-4dac-89a5-2f10268dcb99",
+    "title": "Tony Hawk's Pro Skater 2",
+    "slug": "tony-hawks-pro-skater-2",
+    "link": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_2",
+    "year": 2001,
+    "genre": ["Sports", "Extreme Sports"],
+    "fileName": "6664a1b5-493e-4dac-89a5-2f10268dcb99-tony-hawks-pro-skater-2.png"
+  },
+  {
+    "id": "1d57cb71-201d-47a6-b96f-bd25cbd77397",
+    "title": "Tony Hawk's Pro Skater 3",
+    "slug": "tony-hawks-pro-skater-3",
+    "link": "https://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater_3",
+    "year": 2002,
+    "genre": ["Sports", "Extreme Sports"],
+    "fileName": "1d57cb71-201d-47a6-b96f-bd25cbd77397-tony-hawks-pro-skater-3.png"
+  },
+  {
+    "id": "436d2c2b-6baf-42a4-a411-2a40510f56c5",
+    "title": "Top Gear Hyper-Bike",
+    "slug": "top-gear-hyper-bike",
+    "link": "https://en.wikipedia.org/wiki/Top_Gear_Hyper_Bike",
+    "year": 2000,
+    "genre": ["Racing", "Motorcycle"],
+    "fileName": "436d2c2b-6baf-42a4-a411-2a40510f56c5-top-gear-hyper-bike.png"
+  },
+  {
+    "id": "19d40cfe-1865-4b54-b0b7-d4b32ab9adec",
+    "title": "Top Gear Overdrive",
+    "slug": "top-gear-overdrive",
+    "link": "https://en.wikipedia.org/wiki/Top_Gear_Overdrive",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "19d40cfe-1865-4b54-b0b7-d4b32ab9adec-top-gear-overdrive.png"
+  },
+  {
+    "id": "0f0b1bed-8d06-42f1-a13e-721a61664f8c",
+    "title": "Top Gear Rally",
+    "slug": "top-gear-rally",
+    "link": "https://en.wikipedia.org/wiki/Top_Gear_Rally",
+    "year": 1997,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "0f0b1bed-8d06-42f1-a13e-721a61664f8c-top-gear-rally.png"
+  },
+  {
+    "id": "ca495bdd-d043-4ccf-8b0c-780ca72a5e04",
+    "title": "Top Gear Rally 2",
+    "slug": "top-gear-rally-2",
+    "link": "https://en.wikipedia.org/wiki/Top_Gear_Rally_2",
+    "year": 2000,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "ca495bdd-d043-4ccf-8b0c-780ca72a5e04-top-gear-rally-2.png"
+  },
+  {
+    "id": "5e54964e-6c78-49b1-86c0-6c7671509fd4",
+    "title": "Toy Story 2: Buzz Lightyear to the Rescue",
+    "slug": "toy-story-2-buzz-lightyear-to-the-rescue",
+    "link": "https://en.wikipedia.org/wiki/Toy_Story_2:_Buzz_Lightyear_to_the_Rescue",
+    "year": 1999,
+    "genre": ["Action", "3D Platformer"],
+    "fileName": "5e54964e-6c78-49b1-86c0-6c7671509fd4-toy-story-2-buzz-lightyear-to-the-rescue.png"
+  },
+  {
+    "id": "c24392d8-fc7c-460a-a417-a57517942709",
+    "title": "Transformers - Beast Wars Transmetals",
+    "slug": "transformers-beast-wars-transmetals",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Fighting"],
+    "fileName": "c24392d8-fc7c-460a-a417-a57517942709-transformers-beast-wars-transmetals.png"
+  },
+  {
+    "id": "52278a3d-49d9-40bb-a557-79b791efd51e",
+    "title": "Triple Play 2000",
+    "slug": "triple-play-2000",
+    "link": "https://en.wikipedia.org/wiki/Triple_Play_2000",
+    "year": 1999,
+    "genre": ["Sports", "Baseball"],
+    "fileName": "52278a3d-49d9-40bb-a557-79b791efd51e-triple-play-2000.png"
+  },
+  {
+    "id": "68c5fa8c-9703-41f9-a515-fa6953dfad78",
+    "title": "Turok - Dinosaur Hunter",
+    "slug": "turok-dinosaur-hunter-jikuu-senshi-turokjp",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "68c5fa8c-9703-41f9-a515-fa6953dfad78-turok-dinosaur-hunter-jikuu-senshi-turokjp.png"
+  },
+  {
+    "id": "447c1593-fb3b-4a77-a0bf-ead48c6d8de8",
+    "title": "Turok - Rage Wars",
+    "slug": "turok-rage-wars",
+    "link": "https://en.wikipedia.org/wiki/Turok:_Rage_Wars",
+    "year": 1999,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "447c1593-fb3b-4a77-a0bf-ead48c6d8de8-turok-rage-wars.png"
+  },
+  {
+    "id": "2b065075-30fb-48f4-9594-0faf100c998c",
+    "title": "Turok 2 - Seeds of Evil",
+    "slug": "turok-2-seeds-of-evil",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "2b065075-30fb-48f4-9594-0faf100c998c-turok-2-seeds-of-evil.png"
+  },
+  {
+    "id": "d31634ec-262f-41d0-aef5-03a2ec2c56e8",
+    "title": "Turok 3 - Shadow of Oblivion",
+    "slug": "turok-3-shadow-of-oblivion",
+    "link": "https://en.wikipedia.org/wiki/Turok_3:_Shadow_of_Oblivion",
+    "year": 2000,
+    "genre": ["Action", "First-Person Shooter"],
+    "fileName": "d31634ec-262f-41d0-aef5-03a2ec2c56e8-turok-3-shadow-of-oblivion.png"
+  },
+  {
+    "id": "7ffc3ca5-84b6-4481-95bc-3e9a2919af7a",
+    "title": "Twisted Edge - Extreme Snowboarding",
+    "slug": "twisted-edge-extreme-snowboarding",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Snowboarding"],
+    "fileName": "7ffc3ca5-84b6-4481-95bc-3e9a2919af7a-twisted-edge-extreme-snowboarding.png"
+  },
+  {
+    "id": "c262b5f5-540f-44d3-90bd-f0a7bd4ac407",
+    "title": "V-Rally '99",
+    "slug": "v-rally-99",
+    "link": "https://en.wikipedia.org/wiki/V-Rally_(video_game)#Ports_and_adaptations",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "c262b5f5-540f-44d3-90bd-f0a7bd4ac407-v-rally-99.png"
+  },
+  {
+    "id": "b1d579b3-6d99-4f1b-a6d7-a09f563be4ba",
+    "title": "Vigilante 8",
+    "slug": "vigilante-8",
+    "link": "https://en.wikipedia.org/wiki/Vigilante_8",
+    "year": 1999,
+    "genre": ["Action", "Vehicular combat"],
+    "fileName": "b1d579b3-6d99-4f1b-a6d7-a09f563be4ba-vigilante-8.png"
+  },
+  {
+    "id": "5b3c7bcc-e910-438b-9ca8-5fff0cd6b59f",
+    "title": "Vigilante 8 - 2nd Offense",
+    "slug": "vigilante-8-2nd-offense",
+    "link": "https://en.wikipedia.org/wiki/Vigilante_8:_2nd_Offense",
+    "year": 2000,
+    "genre": ["Action", "Vehicular combat"],
+    "fileName": "5b3c7bcc-e910-438b-9ca8-5fff0cd6b59f-vigilante-8-2nd-offense.png"
+  },
+  {
+    "id": "c441b274-3888-41ec-a672-7df3d617cd33",
+    "title": "Virtual Chess 64",
+    "slug": "virtual-chess-64",
+    "link": "https://en.wikipedia.org/wiki/Virtual_Chess_64",
+    "year": 1998,
+    "genre": ["Board Game", "Chess"],
+    "fileName": "c441b274-3888-41ec-a672-7df3d617cd33-virtual-chess-64.png"
+  },
+  {
+    "id": "c9126bc9-2432-4a33-b5ef-dbe9198802fe",
+    "title": "Virtual Pool 64",
+    "slug": "virtual-pool-64",
+    "link": "https://en.wikipedia.org/wiki/Virtual_Pool_64",
+    "year": 1998,
+    "genre": ["Sports", "Pool"],
+    "fileName": "c9126bc9-2432-4a33-b5ef-dbe9198802fe-virtual-pool-64.png"
+  },
+  {
+    "id": "1467c506-9e9c-43d0-9da2-989c159bb092",
+    "title": "Waialae Country Club - True Golf Classics",
+    "slug": "waialae-country-club-true-golf-classics",
+    "link": "https://en.wikipedia.org/wiki/Waialae_Country_Club:_True_Golf_Classics",
+    "year": 1998,
+    "genre": ["Sports", "Golf"],
+    "fileName": "1467c506-9e9c-43d0-9da2-989c159bb092-waialae-country-club-true-golf-classics.png"
+  },
+  {
+    "id": "d8e556d6-c9a0-41ac-aecd-b02ff0e12f74",
+    "title": "War Gods",
+    "slug": "war-gods",
+    "link": "https://en.wikipedia.org/wiki/War_Gods_(video_game)",
+    "year": 1997,
+    "genre": ["Action", "Fighting"],
+    "fileName": "d8e556d6-c9a0-41ac-aecd-b02ff0e12f74-war-gods.png"
+  },
+  {
+    "id": "ad47272c-0d36-43e5-92f5-75ed16b227fd",
+    "title": "Wave Race 64",
+    "slug": "wave-race-64",
+    "link": "https://en.wikipedia.org/wiki/Wave_Race_64",
+    "year": 1996,
+    "genre": ["Sports", "Jet Ski"],
+    "fileName": "ad47272c-0d36-43e5-92f5-75ed16b227fd-wave-race-64.png"
+  },
+  {
+    "id": "d5408fc7-dfdc-41cb-ac76-ceab7b0f7e6e",
+    "title": "Wayne Gretzky's 3D Hockey",
+    "slug": "wayne-gretzkys-3d-hockey",
+    "link": "https://en.wikipedia.org/wiki/Wayne_Gretzky%27s_3D_Hockey",
+    "year": 1998,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "d5408fc7-dfdc-41cb-ac76-ceab7b0f7e6e-wayne-gretzkys-3d-hockey.png"
+  },
+  {
+    "id": "dd8113f0-9cae-470e-9d5a-4b6f15413393",
+    "title": "Wayne Gretzky's 3D Hockey '98",
+    "slug": "wayne-gretzkys-3d-hockey-98",
+    "link": "https://en.wikipedia.org/wiki/Wayne_Gretzky%27s_3D_Hockey_%2798",
+    "year": 1997,
+    "genre": ["Sports", "Ice Hockey"],
+    "fileName": "dd8113f0-9cae-470e-9d5a-4b6f15413393-wayne-gretzkys-3d-hockey-98.png"
+  },
+  {
+    "id": "ddc3f0e8-d2bd-4fba-865d-ccc0ba444f25",
+    "title": "WCW Backstage Assault",
+    "slug": "wcw-backstage-assault",
+    "link": "https://en.wikipedia.org/wiki/WCW_Backstage_Assault",
+    "year": 2000,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "ddc3f0e8-d2bd-4fba-865d-ccc0ba444f25-wcw-backstage-assault.png"
+  },
+  {
+    "id": "781ddfa4-cad1-4985-8664-3e4b53048f15",
+    "title": "WCW Mayhem",
+    "slug": "wcw-mayhem",
+    "link": "https://en.wikipedia.org/wiki/WCW_Mayhem_(video_game)",
+    "year": 1999,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "781ddfa4-cad1-4985-8664-3e4b53048f15-wcw-mayhem.png"
+  },
+  {
+    "id": "d9985600-2672-43f0-8ef2-4280154da7bd",
+    "title": "WCW Nitro",
+    "slug": "wcw-nitro",
+    "link": "https://en.wikipedia.org/wiki/WCW_Nitro_(video_game)",
+    "year": 1999,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "d9985600-2672-43f0-8ef2-4280154da7bd-wcw-nitro.png"
+  },
+  {
+    "id": "aa043036-23d6-4ece-aa26-08965a02beb5",
+    "title": "WCW vs. nWo - World Tour",
+    "slug": "wcw-vs-nwo-world-tour",
+    "link": "https://en.wikipedia.org/wiki/WCW_vs._nWo:_World_Tour",
+    "year": 1997,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "aa043036-23d6-4ece-aa26-08965a02beb5-wcw-vs-nwo-world-tour.png"
+  },
+  {
+    "id": "d999144b-89b3-442b-9a72-de0e33d623f3",
+    "title": "WCW-nWo Revenge",
+    "slug": "wcw-nwo-revenge",
+    "link": "https://en.wikipedia.org/wiki/WCW/nWo_Revenge",
+    "year": 1998,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "d999144b-89b3-442b-9a72-de0e33d623f3-wcw-nwo-revenge.png"
+  },
+  {
+    "id": "48f7f4ef-1176-401e-bc54-f93b49a1a45e",
+    "title": "Wetrix",
+    "slug": "wetrix",
+    "link": "https://en.wikipedia.org/wiki/Wetrix",
+    "year": 1998,
+    "genre": ["Puzzle", "Logic"],
+    "fileName": "48f7f4ef-1176-401e-bc54-f93b49a1a45e-wetrix.png"
+  },
+  {
+    "id": "c3ef63a9-a15c-4a21-9aa9-11a7d77fd938",
+    "title": "Wheel of Fortune",
+    "slug": "wheel-of-fortune",
+    "link": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_video_games#Console_games",
+    "year": 1997,
+    "genre": ["Trivia", "Game Show"],
+    "fileName": "c3ef63a9-a15c-4a21-9aa9-11a7d77fd938-wheel-of-fortune.png"
+  },
+  {
+    "id": "2e6c9f65-f236-44df-9c7c-0b83cd6625f0",
+    "title": "WinBack - Covert Operations",
+    "slug": "winback-covert-operations",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Third-Person Shooter"],
+    "fileName": "2e6c9f65-f236-44df-9c7c-0b83cd6625f0-winback-covert-operations.png"
+  },
+  {
+    "id": "e0c1e31e-59d1-403b-9b15-e92458410dc4",
+    "title": "Wipeout 64",
+    "slug": "wipeout-64",
+    "link": "https://en.wikipedia.org/wiki/Wipeout_64",
+    "year": 1998,
+    "genre": ["Racing", "Hovercraft"],
+    "fileName": "e0c1e31e-59d1-403b-9b15-e92458410dc4-wipeout-64.png"
+  },
+  {
+    "id": "7a6c0973-121f-449a-a1ad-9049e83c95a4",
+    "title": "World Cup 98",
+    "slug": "world-cup-98",
+    "link": null,
+    "year": 1998,
+    "genre": ["Sports", "Soccer"],
+    "fileName": "7a6c0973-121f-449a-a1ad-9049e83c95a4-world-cup-98.png"
+  },
+  {
+    "id": "6211842c-7139-4791-8b4c-8a57c65e825e",
+    "title": "World Driver Championship",
+    "slug": "world-driver-championship",
+    "link": "https://en.wikipedia.org/wiki/World_Driver_Championship",
+    "year": 1999,
+    "genre": ["Racing", "Automobile"],
+    "fileName": "6211842c-7139-4791-8b4c-8a57c65e825e-world-driver-championship.png"
+  },
+  {
+    "id": "4b9ce36b-fd8d-4a53-8077-10b971ce2049",
+    "title": "Worms Armageddon",
+    "slug": "worms-armageddon",
+    "link": "https://en.wikipedia.org/wiki/Worms_Armageddon",
+    "year": 2000,
+    "genre": ["Strategy", "Turn-Based"],
+    "fileName": "4b9ce36b-fd8d-4a53-8077-10b971ce2049-worms-armageddon.png"
+  },
+  {
+    "id": "522a72a8-1273-43f3-a35c-5c127ec8b1d8",
+    "title": "WWF Attitude",
+    "slug": "wwf-attitude",
+    "link": "https://en.wikipedia.org/wiki/WWF_Attitude",
+    "year": 1999,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "522a72a8-1273-43f3-a35c-5c127ec8b1d8-wwf-attitude.png"
+  },
+  {
+    "id": "538bf44a-0a63-4493-a9e3-12b3fa9cee2f",
+    "title": "WWF No Mercy",
+    "slug": "wwf-no-mercy",
+    "link": "https://en.wikipedia.org/wiki/WWF_No_Mercy",
+    "year": 2000,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "538bf44a-0a63-4493-a9e3-12b3fa9cee2f-wwf-no-mercy.png"
+  },
+  {
+    "id": "ac91256b-f86a-44b7-ab1c-b9b5d7bab9e5",
+    "title": "WWF War Zone",
+    "slug": "wwf-war-zone",
+    "link": "https://en.wikipedia.org/wiki/WWF_War_Zone",
+    "year": 1998,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "ac91256b-f86a-44b7-ab1c-b9b5d7bab9e5-wwf-war-zone.png"
+  },
+  {
+    "id": "c164e688-6484-4b5e-acdc-da12019a047e",
+    "title": "WWF WrestleMania 2000",
+    "slug": "wwf-wrestlemania-2000",
+    "link": "https://en.wikipedia.org/wiki/WWF_Wrestlemania_2000",
+    "year": 2000,
+    "genre": ["Sports", "Pro Wrestling"],
+    "fileName": "c164e688-6484-4b5e-acdc-da12019a047e-wwf-wrestlemania-2000.png"
+  },
+  {
+    "id": "b6d69f8a-b65c-4641-96c9-f32c23bddadc",
+    "title": "Xena - Warrior Princess - The Talisman of Fate",
+    "slug": "xena-warrior-princess-the-talisman-of-fate",
+    "link": null,
+    "year": 1999,
+    "genre": ["Action", "Fighting"],
+    "fileName": "b6d69f8a-b65c-4641-96c9-f32c23bddadc-xena-warrior-princess-the-talisman-of-fate.png"
+  },
+  {
+    "id": "121eba9a-31a7-4fee-92a0-242173da7e22",
+    "title": "Yoshi's Story",
+    "slug": "yoshis-story",
+    "link": null,
+    "year": 1997,
+    "genre": ["Action", "2D Platformer"],
+    "fileName": "121eba9a-31a7-4fee-92a0-242173da7e22-yoshis-story.png"
+  }
+]
