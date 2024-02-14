@@ -1,12 +1,13 @@
 import { getGameImage } from "@/helpers/games";
 import Image from "next/image";
+import Link from "next/link";
 
 const ScrollableGameList = ({ games }: { games: any[] }) => {
   return (
     <>
       {games.map((game) => {
         return (
-          <div key={game.id} className="h-32 w-auto">
+          <Link href={`/games/${game.slug}`} key={game.id} className="h-32 w-auto">
             <Image
               className="h-full w-full object-cover brightness-75 hover:brightness-100"
               src={getGameImage(game.image)}
@@ -14,7 +15,7 @@ const ScrollableGameList = ({ games }: { games: any[] }) => {
               width={372}
               height={272}
             />
-          </div>
+          </Link>
         );
       })}
     </>
