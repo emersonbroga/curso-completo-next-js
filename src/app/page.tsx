@@ -1,5 +1,6 @@
-import { PageWrapper, Pagination } from "@/components";
+import { Hero, PageWrapper, Pagination } from "@/components";
 import ArticleService from "@/services/Articles";
+import GamesService from "@/services/Games";
 import Image from "next/image";
 
 export default async function Home({ searchParams }: { searchParams?: { page?: string; limit?: string } }) {
@@ -9,12 +10,15 @@ export default async function Home({ searchParams }: { searchParams?: { page?: s
   const articles = await ArticleService.getHomeArticles(currentPage, limit);
   const latestArticles = await ArticleService.getHomeLatestArticles();
 
+  const heroGames = await GamesService.getRandomGames(40);
+
   return (
     <PageWrapper>
-      <div className="w-full h-[35vh] bg-orange-400 flex-center">
-        <p>Algo Chamativo</p>
-      </div>
-      <div className="container mx-auto my-6">
+      <Hero games={heroGames.data} />
+
+      <div className="container mx-auto my-10">
+        <h2 className="text-3xl my-6 underline">Latest Articles</h2>
+
         <div className="grid grid-cols-4 gap-4 h-[35vh]">
           {latestArticles.data.map((article) => {
             return (
@@ -37,8 +41,9 @@ export default async function Home({ searchParams }: { searchParams?: { page?: s
         </div>
       </div>
 
-      <div className="container mx-auto my-6">
-        <div className="grid grid-cols-12 gap-4 ">
+      <div className="container mx-auto my-10">
+        <h3 className="text-2xl my-6 underline">Articles</h3>
+        <div className="grid grid-cols-12 gap-4">
           <div className="col-span-8 ">
             <div className="flex flex-col gap-4">
               {articles.data.map((article) => {

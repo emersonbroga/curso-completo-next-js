@@ -12,4 +12,29 @@
   .flex-center {
     @apply flex justify-center items-center;
   }
+
+  .scroll-ttb {
+    animation: scroll-ttb var(--duration) linear infinite;
+  }
+  .scroll-btt {
+    animation: scroll-btt var(--duration) linear infinite;
+  }
+}
+
+@keyframes scroll-ttb {
+  0% {
+    transform: translateY(0px);
+  }
+  100% {
+    transform: translateY(calc(var(--item-size) * var(--item-count) * -1));
+  }
+}
+
+@keyframes scroll-btt {
+  0% {
+    transform: translateY(calc(var(--item-size) * var(--item-count) * -1));
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
