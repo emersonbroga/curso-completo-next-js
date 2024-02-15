@@ -1,8 +1,10 @@
 "use server";
 
-import { ZodError, z } from "zod";
+import { z } from "zod";
 
+import { getZodErrors } from "@/helpers/zod";
 import UsersService from "@/services/Users";
+import { redirect } from "next/navigation";
 
 export type SignUpError = {
   name?: string;
@@ -14,19 +16,6 @@ export type SignUpError = {
 export type SignUpState = {
   isValid?: boolean;
   errors: SignUpError;
-};
-
-const getZodErros = (error: unknown) => {
-  const isZodError = error instanceof ZodError;
-  if (!isZodError) return null;
-
-  const { fieldErrors } = error.flatten();
-  const errors = Object.keys(fieldErrors).reduce((acc, key) => {
-    const message = fieldErrors[key]?.at(0);
-    return { ...acc, [key]: message };
-  }, {});
-
-  return errors;
 };
 
 const validateSignUpForm = (formData: FormData) => {
@@ -46,7 +35,7 @@ const validateSignUpForm = (formData: FormData) => {
     userSchema.parse(Object.fromEntries(formData));
     return { isValid: true, errors: {} };
   } catch (error: unknown) {
-    const zodErrors = getZodErros(error);
+    const zodErrors = getZodErrors(error);
     return { isValid: false, errors: zodErrors || {} };
   }
 };
@@ -63,7 +52,6 @@ export const handleSignUpForm = async (prevState: any, formData: FormData) => {
     password: String(formData.get("password")),
   };
 
-  const record = await UsersService.signUp(data);
-  console.log("🟨 *** ~ record:", record);
-  return { isValid: true, errors: {} };
+  await UsersService.signUp(data);
+  redirect("/");
 };
