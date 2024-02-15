@@ -1,5 +1,7 @@
 "use server";
 
+import { ZodError, z } from "zod";
+
 import UsersService from "@/services/Users";
 
 export type SignUpError = {
@@ -14,43 +16,38 @@ export type SignUpState = {
   errors: SignUpError;
 };
 
-const validateSignUpForm = (formData: FormData) => {
-  const errors: SignUpError = {
-    name: undefined,
-    email: undefined,
-    password: undefined,
-    passwordConfirmation: undefined,
-  };
+const getZodErros = (error: unknown) => {
+  const isZodError = error instanceof ZodError;
+  if (!isZodError) return null;
 
-  const name = String(formData.get("name"));
-  const email = String(formData.get("email"));
-  const password = String(formData.get("password"));
-  const passwordConfirmation = String(formData.get("passwordConfirmation"));
+  const { fieldErrors } = error.flatten();
+  const errors = Object.keys(fieldErrors).reduce((acc, key) => {
+    const message = fieldErrors[key]?.at(0);
+    return { ...acc, [key]: message };
+  }, {});
+
+  return errors;
+};
+
+const validateSignUpForm = (formData: FormData) => {
+  const checkPasswords = (data: any) => data.password === data.passwordConfirmation;
+  const checkPasswordsErros = { message: "Password confirmation doesn't match", path: ["passwordConfirmation"] };
+
+  const userSchema = z
+    .object({
+      name: z.string().min(3, "Name must have at least 3 chars"),
+      email: z.string().email("Email invalid"),
+      password: z.string().min(10, "Password must have at least 10 chars"),
+      passwordConfirmation: z.string().min(10, "Passowrd confirmation must have at least 10 chars"),
+    })
+    .refine(checkPasswords, checkPasswordsErros);
 
   try {
-    if (!name) {
-      errors.name = "Name is required";
-    }
-
-    if (!email) {
-      errors.email = "Email is required";
-    }
-
-    if (!email.includes("@")) {
-      errors.email = "Email is not valid";
-    }
-
-    if (password.length < 10) {
-      errors.password = "Password should have 10 chars";
-    }
-
-    if (!password || password !== passwordConfirmation) {
-      errors.passwordConfirmation = "Password confirmation doesn't match";
-    }
-    const isValid = Object.values(errors).every((v) => v === undefined);
-    return { isValid, errors };
-  } catch (error) {
-    return { isValid: false, errors };
+    userSchema.parse(Object.fromEntries(formData));
+    return { isValid: true, errors: {} };
+  } catch (error: unknown) {
+    const zodErrors = getZodErros(error);
+    return { isValid: false, errors: zodErrors || {} };
   }
 };
 
@@ -67,6 +64,6 @@ export const handleSignUpForm = async (prevState: any, formData: FormData) => {
   };
 
   const record = await UsersService.signUp(data);
-
-  return { ...prevState, isValid: true };
+  console.log("🟨 *** ~ record:", record);
+  return { isValid: true, errors: {} };
 };
