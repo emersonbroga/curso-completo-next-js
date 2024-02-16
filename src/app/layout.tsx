@@ -18,6 +18,7 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
   const user = await getSession();
+
   return (
     <html lang="en">
       <body className={cn("bg-slate-890 text-slate-300", inter.className)}>
