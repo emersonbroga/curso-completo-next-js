@@ -1,3 +1,9 @@
+import { PageWrapper } from "@/components";
+
 export default function About() {
-  return <h1>About</h1>;
+  return (
+    <PageWrapper>
+      <h1>About</h1>
+    </PageWrapper>
+  );
 }

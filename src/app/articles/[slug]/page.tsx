@@ -1,8 +1,11 @@
 import { PageWrapper } from "@/components";
+import { getArticleImage } from "@/helpers/articles";
 import ArticleService from "@/services/Articles";
 import Image from "next/image";
 
-export default async function ArticleDetailPage({ params }: { params: { slug: string } }) {
+type ArticleDetailPageProps = { params: { slug: string } };
+
+export default async function ArticleDetailPage({ params }: ArticleDetailPageProps) {
   const slug = params.slug;
   const article = await ArticleService.getArticleBySlug(slug);
 
@@ -17,7 +20,7 @@ export default async function ArticleDetailPage({ params }: { params: { slug: st
           <h1 className="text-3xl my-6">{article.title}</h1>
           <Image
             className="my-6 h-full w-full object-cover rounded-lg"
-            src={`/assets/images/articles/${article.image}`}
+            src={getArticleImage(article.image)}
             alt={article.title}
             width={600}
             height={400}

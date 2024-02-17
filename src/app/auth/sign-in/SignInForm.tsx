@@ -2,9 +2,9 @@
 
 import { SubmitButton, TextInput } from "@/components";
 import { useFormState } from "react-dom";
-import { handleSignInForm, type SignInState } from "./actions";
+import { handleSignInForm, type SignUpState } from "./actions";
 
-const initialState: SignInState = {
+const initialState: SignUpState = {
   isValid: undefined,
   errors: { email: undefined, password: undefined },
 };

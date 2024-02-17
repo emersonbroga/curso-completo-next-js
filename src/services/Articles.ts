@@ -38,6 +38,7 @@ const ArticleService = {
       },
     };
   },
+
   getHomeLatestArticles: async () => {
     const page = 1;
     const limit = HOME_LATEST_COUNT;
