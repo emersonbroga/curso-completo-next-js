@@ -1,3 +1,4 @@
+import { getArticleImage, getArticleUrl } from "@/helpers/articles";
 import ArticleService from "@/services/Articles";
 import Image from "next/image";
 import Link from "next/link";
@@ -14,13 +15,13 @@ export default async function HomeLatestArticles() {
           return (
             <Link
               key={article.title}
-              href={`/articles/${article.slug}`}
+              href={getArticleUrl(article.slug)}
               className="flex-center relative overflow-hidden"
             >
               <div className="h-full w-full">
                 <Image
                   className="h-full w-full object-cover transition duration-500 hover:scale-105"
-                  src={`/assets/images/articles/${article.image}`}
+                  src={getArticleImage(article.image)}
                   alt={article.title}
                   width={600}
                   height={400}

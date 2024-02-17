@@ -10,6 +10,7 @@ const Article = {
     const record = await prisma.article.findUnique({ where });
     return record;
   },
+
   get: async ({ where = {}, orderBy = {}, limit = 10, offset = 0 }) => {
     const take = Math.min(limit, MAX_RECORDS);
     const skip = Math.max(offset, MIN_OFFSET);
@@ -22,6 +23,7 @@ const Article = {
     });
     return records;
   },
+
   count: async ({ where = {} }) => {
     const count = await prisma.article.count({
       where,

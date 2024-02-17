@@ -23,6 +23,7 @@ const Games = {
     });
     return records;
   },
+
   count: async ({ where = {} }) => {
     const count = await prisma.games.count({
       where,

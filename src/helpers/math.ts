@@ -6,17 +6,17 @@ export const getIntArray = (min: number, max: number) => {
   return result;
 };
 
-export const getRandomIntArrayInRange = (min: number, max: number, count: number) => {
-  const result: number[] = [];
-
-  for (let i = min; i <= max; i++) {
-    result.push(i);
-  }
+export const shuffleArray = (arr: any[]) => {
   // Fisher-Yates shuffle
-  for (let i = result.length - 1; i > 0; i--) {
+  for (let i = arr.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    [result[i], result[j]] = [result[j], result[i]];
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
+  return arr;
+};
 
-  return result.slice(0, count);
+export const getRandomIntArrayInRange = (min: number, max: number, count: number) => {
+  const result = getIntArray(min, max);
+  const shuffled = shuffleArray(result);
+  return shuffled.slice(0, count);
 };
