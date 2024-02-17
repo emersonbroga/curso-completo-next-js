@@ -3,7 +3,7 @@ import { cookies } from "next/headers";
 
 const SESSION_NAME = "session";
 
-const generateExpires = () => new Date(Date.now() + 60 * 1000);
+const generateExpires = () => new Date(Date.now() + 60 * 60 * 1000);
 
 export const createSession = (payload: string) => {
   const expires = generateExpires();
@@ -30,4 +30,9 @@ export const updateSession = async () => {
   };
 
   return updateSession;
+};
+
+export const logout = async () => {
+  // Destroy the session.
+  cookies().set(SESSION_NAME, "", { expires: new Date(0) });
 };
