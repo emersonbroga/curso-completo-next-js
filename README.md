@@ -1,36 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Curso completo de NextJS
 
-## Getting Started
+NextJS é um framework de desenvolvimento web para a biblioteca React!
+Ele simplifica e facilita a construção de aplicativos React, adicionando recursos e convenções úteis para o desenvolvimento web. NextJS é frequentemente usado para criar aplicativos da web modernos e escaláveis, oferecendo uma abordagem baseada em componentes e páginas.
 
-First, run the development server:
+Aprender Next.js pode ser benéfico por várias razões, especialmente se você estiver envolvido no desenvolvimento web front-end com React.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Sem sombra de dúvidas, o NextJS é um dos frameworks React mais utilizado pelas empresas, dominar o NextJS vai aumentar e muito as suas chances de contratação, seja para empresas brasileiras quanto para empresas estrangeiras.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+O NextJs trás a facilidade de uso, devido a sua abordagem "opnionated", é otimizado para SEO e desempenho, tem sistema de rotas bem definido através de estrutura de pastas, suporte total ao TypeScript e excelente devx (developer experience).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Esse treinamento é indicado para pessoas de todos os níveis, pois na minha metodologia de ensino, eu começo sempre do básico e vou resolvendo problemas e implementando melhorias até chegar nos níveis mais avançados, portanto sempre tem algo para você aprender ou aprimorar o conhecimento.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Sao abordados os mais diversos temas, como Rotas publicas, privadas e agrupadas, Autenticação de usuario e senha, integração com banco de dados, utilizando migrations, seeds e CRUD completo, Partial content loading, skeleton loading, multiplos layouts, componentes do next como NextImage e NextLink, criação de componentes reutilizáveis, clean code e tudo seguindo as boas práticas e fazendo tudo certinho com typescript.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Compre o Curso completo de NextJS 
+[![convert-kit-480x240](https://github.com/emersonbroga/curso-completo-next-js/assets/824403/bcec9b1b-edaa-40e5-b0b3-f758eda422f6)](https://bit.ly/3v3ypGD)
