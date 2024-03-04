@@ -16,3 +16,13 @@ Sao abordados os mais diversos temas, como Rotas publicas, privadas e agrupadas,
 
 ## Compre o Curso completo de NextJS 
 [![convert-kit-480x240](https://github.com/emersonbroga/curso-completo-next-js/assets/824403/bcec9b1b-edaa-40e5-b0b3-f758eda422f6)](https://bit.ly/3v3ypGD)
+
+
+
+### Se ainda não segue, conheça as Redes Sociais
+
+[![instagram.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/instagram.png?raw=true)](https://emersonbroga.com/instagram)
+[![youtube.com/c/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/youtube.png?raw=true)](https://emersonbroga.com/youtube)
+[![facebook.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/facebook.png?raw=true)](https://emersonbroga.com/facebook)
+[![twitter.com/emersonbrogadev](https://github.com/emersonbroga/social-media-snippets/blob/master/static/twitter.png?raw=true)](https://emersonbroga.com/twitter)
+[![github.com/emersonbroga](https://github.com/emersonbroga/social-media-snippets/blob/master/static/github.png?raw=true)](https://emersonbroga.com/github)
