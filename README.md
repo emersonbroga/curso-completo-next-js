@@ -17,6 +17,28 @@ Sao abordados os mais diversos temas, como Rotas publicas, privadas e agrupadas,
 ## Compre o Curso completo de NextJS 
 [![convert-kit-480x240](https://github.com/emersonbroga/curso-completo-next-js/assets/824403/bcec9b1b-edaa-40e5-b0b3-f758eda422f6)](https://bit.ly/3v3ypGD)
 
+## Como rodar o projeto
+```
+git clone git@github.com:emersonbroga/curso-completo-next-js.git
+cd curso-completo-next-js
+npm install 
+cp .env.example .env
+npx prisma migrate dev
+# se perguntar: Ok to proceed? (y)  responda: y
+npx prisma db seed 
+# se perguntar: Ok to proceed? (y)  responda: y
+npm run dev
+```
+
+Abra o browser no `localhost:3000`
+
+[![Screenshot 2024-03-04 at 6 43 52 PM](https://github.com/emersonbroga/curso-completo-next-js/assets/824403/bec8c5ec-9b8f-4971-89aa-324d1c54b71a)](https://bit.ly/3v3ypGD)
+
+
+
+
+
+
 
 
 ### Se ainda não segue, conheça as Redes Sociais
