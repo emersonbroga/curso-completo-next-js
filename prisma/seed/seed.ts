@@ -16,8 +16,11 @@ async function main() {
 
   const [, , ...args] = process.argv;
   const truncate = !!args.find((arg) => arg === "-truncate");
+  console.log("🟨 *** ~ truncate:", truncate);
   const articles = !!args.find((arg) => arg === "articles");
+  console.log("🟨 *** ~ articles:", articles);
   const games = !!args.find((arg) => arg === "games");
+  console.log("🟨 *** ~ games:", games);
 
   if (truncate) {
     if (articles) await truncateArticles();
@@ -96,12 +99,26 @@ async function truncateGamesAndGenres() {
   return;
 }
 
-main()
-  .then(async () => {
-    await prisma.$disconnect();
-  })
-  .catch(async (e) => {
-    console.log(e);
-    await prisma.$disconnect();
-    process.exit(1);
-  });
+// main()
+//   .then(async () => {
+//     await prisma.$disconnect();
+//   })
+//   .catch(async (e) => {
+//     console.log(e);
+//     await prisma.$disconnect();
+//     process.exit(1);
+//   });
+
+export const turncate = async () => {
+  console.log("Truncating articles");
+  await truncateArticles();
+
+  console.log("Truncating Games and Genres");
+  await truncateGamesAndGenres();
+};
+export const seed = async () => {
+  console.log("Seeding articles");
+  await seedArticles();
+  console.log("Seeding Games and Genres");
+  await seedGamesAndGenres();
+};
