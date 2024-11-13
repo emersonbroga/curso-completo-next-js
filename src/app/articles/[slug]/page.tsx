@@ -1,11 +1,11 @@
 import { PageWrapper } from "@/components";
 import { getArticleImage } from "@/helpers/articles";
 import ArticleService from "@/services/Articles";
+import { type Params } from "@/types";
 import Image from "next/image";
 
-type ArticleDetailPageProps = { params: { slug: string } };
-
-export default async function ArticleDetailPage({ params }: ArticleDetailPageProps) {
+export default async function ArticleDetailPage(props: { params: Params }) {
+  const params = await props.params;
   const slug = params.slug;
   const article = await ArticleService.getArticleBySlug(slug);
 

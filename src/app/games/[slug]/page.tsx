@@ -3,7 +3,9 @@ import { getGameImage } from "@/helpers/games";
 import GamesService from "@/services/Games";
 import Image from "next/image";
 
-export default async function ArticleDetailPage({ params }: { params: { slug: string } }) {
+export default async function ArticleDetailPage(props: { params: SearchParams }) {
+  const params = await props.params;
+
   const slug = params.slug;
   const game = await GamesService.getGameBySlug(slug);
 

@@ -1,7 +1,7 @@
 "use client";
 
 import { SubmitButton, TextInput } from "@/components";
-import { useFormState } from "react-dom";
+import { useActionState } from "react";
 import { handleSignInForm, type SignUpState } from "./actions";
 
 const initialState: SignUpState = {
@@ -10,7 +10,7 @@ const initialState: SignUpState = {
 };
 
 export default function SignInForm() {
-  const [state, formAction] = useFormState(handleSignInForm, initialState);
+  const [state, formAction] = useActionState(handleSignInForm, initialState);
 
   return (
     <form action={formAction}>
