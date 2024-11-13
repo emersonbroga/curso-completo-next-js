@@ -1,10 +1,13 @@
 import { PageWrapper, Pagination } from "@/components";
 import { getGameImage, getGameUrl } from "@/helpers/games";
 import GamesService from "@/services/Games";
+import { type SearchParams } from "@/types";
 import Image from "next/image";
 import Link from "next/link";
 
-export default async function Games({ searchParams }: { searchParams?: { page?: string; limit?: string } }) {
+export default async function Games(props: { searchParams: SearchParams }) {
+  const searchParams = await props.searchParams;
+
   const currentPage = Number(searchParams?.page) || 1;
   const limit = Number(searchParams?.limit) || 12;
   const games = await GamesService.getGamesList(currentPage, limit);

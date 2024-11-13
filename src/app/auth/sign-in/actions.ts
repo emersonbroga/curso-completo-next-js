@@ -53,7 +53,7 @@ export const handleSignInForm = async (prevState: any, formData: FormData) => {
     email: user.email,
   };
   const jwt = await encrypt(payload);
-  createSession(jwt);
+  await createSession(jwt);
 
   revalidatePath("/");
   return redirect("/");

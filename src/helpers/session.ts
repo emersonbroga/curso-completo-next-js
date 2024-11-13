@@ -5,13 +5,15 @@ const SESSION_NAME = "session";
 
 const generateExpires = () => new Date(Date.now() + 60 * 60 * 1000);
 
-export const createSession = (payload: string) => {
+export const createSession = async (payload: string) => {
+  const cookieStore = await cookies();
   const expires = generateExpires();
-  cookies().set(SESSION_NAME, payload, { expires, httpOnly: true });
+  cookieStore.set(SESSION_NAME, payload, { expires, httpOnly: true });
 };
 
 export const getSession = async () => {
-  const session = cookies().get(SESSION_NAME)?.value;
+  const cookieStore = await cookies();
+  const session = cookieStore.get(SESSION_NAME)?.value;
   if (!session) return null;
   return await decrypt(session);
 };
@@ -33,6 +35,8 @@ export const updateSession = async () => {
 };
 
 export const logout = async () => {
+  const cookieStore = await cookies();
+
   // Destroy the session.
-  cookies().set(SESSION_NAME, "", { expires: new Date(0) });
+  cookieStore.set(SESSION_NAME, "", { expires: new Date(0) });
 };

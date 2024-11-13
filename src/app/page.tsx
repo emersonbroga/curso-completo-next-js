@@ -3,11 +3,14 @@ import { getArticleImage, getArticleUrl } from "@/helpers/articles";
 import { HomeLatestArticles, HomeLatestArticlesSkeleton } from "@/sections";
 import ArticleService from "@/services/Articles";
 import GamesService from "@/services/Games";
+import { type SearchParams } from "@/types";
 import Image from "next/image";
 import Link from "next/link";
 import { Suspense } from "react";
 
-export default async function Home({ searchParams }: { searchParams?: { page?: string; limit?: string } }) {
+export default async function Home(props: { searchParams: SearchParams }) {
+  const searchParams = await props.searchParams;
+
   const currentPage = Number(searchParams?.page) || 1;
   const limit = Number(searchParams?.limit) || 10;
 
